@@ -1,0 +1,1519 @@
+,cell_type,tissue
+0,22Rv1,prostate gland
+1,22Rv1 treated with 10 nM 17?-hydroxy-5?-androstan-3-one for 4 hours,prostate gland
+2,8988T,pancreas
+3,A172,brain
+4,A549,lung
+5,A549 treated with 0.02% ethanol for 1 hour,lung
+6,A549 treated with 100 nM dexamethasone for 1 hour,lung
+7,A673,musculature of body
+8,ACC112,exocrine gland
+9,ACHN,kidney
+10,activated B cell male adult 22 years treated with 0.5 ?M CpG ODN for 24 hours,bodily fluid
+11,activated CD4-positive; alpha-beta memory T cell male adult 43 years treated with 10 ng/mL Interleukin-2 ; anti-CD3 and anti-CD28 coated beads,blood
+12,activated CD4-positive; alpha-beta memory T cell male adult 43 years treated with anti-CD3 and anti-CD28 coated beads,blood
+13,activated CD4-positive; alpha-beta T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 1 hour,blood
+14,activated CD4-positive; alpha-beta T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 1 hour; 100 ng/mL Interleukin-4 for 1 hour,blood
+15,activated CD4-positive; alpha-beta T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 1 hour; 100 ng/mL TNF-alpha for 1 hour,blood
+16,activated CD4-positive; alpha-beta T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 1 hour; 50 U/mL Interleukin-2 for 1 hour,blood
+17,activated CD4-positive; alpha-beta T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 24 hours,blood
+18,activated CD4-positive; alpha-beta T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 24 hours; 100 ng/mL Interleukin-23 for 24 hours; 100 ng/mL Interleukin-1b for 24 hours,blood
+19,activated CD4-positive; alpha-beta T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 24 hours; 100 ng/mL Interleukin-2 for 24 hours,blood
+20,activated CD4-positive; alpha-beta T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 24 hours; 100 ng/mL Interleukin-4 for 24 hours,blood
+21,activated CD4-positive; alpha-beta T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours; 100 ng/mL Interleukin-12 subunit alpha for 48 hours; 100 ng/mL Interleukin-12 subunit beta for 48 hours,blood
+22,activated CD4-positive; alpha-beta T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours; 100 ng/mL Interleukin-15 for 48 hours,blood
+23,activated CD4-positive; alpha-beta T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours; 100 ng/mL Interleukin-2 for 48 hours,blood
+24,activated CD4-positive; alpha-beta T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours; 100 ng/mL TNF-alpha for 48 hours,blood
+25,activated CD4-positive; alpha-beta T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 4 hours,blood
+26,activated CD4-positive; alpha-beta T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 4 hours; 100 ng/mL Interleukin-12 subunit alpha for 4 hours; 100 ng/mL Interleukin-12 subunit beta for 4 hours,blood
+27,activated CD4-positive; alpha-beta T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 4 hours; 100 ng/mL Interleukin-23 for 4 hours; 100 ng/mL Interleukin-1b for 4 hours,blood
+28,activated CD4-positive; alpha-beta T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 4 hours; 50 U/mL Interleukin-2 for 4 hours,blood
+29,activated CD4-positive; alpha-beta T cell female adult 37 years,blood
+30,activated CD4-positive; alpha-beta T cell female adult 37 years treated with Interleukin-10 for 8 hours,blood
+31,activated CD4-positive; alpha-beta T cell female adult 37 years treated with Interleukin-4 for 8 hours,blood
+32,activated CD4-positive; alpha-beta T cell female adult 37 years treated with Interleukin-6 for 8 hours,blood
+33,activated CD4-positive; alpha-beta T cell male adult 20 years treated with 10 ng/mL Interleukin-2 ; anti-CD3 and anti-CD28 coated beads,blood
+34,activated CD4-positive; alpha-beta T cell male adult 20 years treated with anti-CD3 and anti-CD28 coated beads,blood
+35,activated CD4-positive; alpha-beta T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 1 hour,blood
+36,activated CD4-positive; alpha-beta T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 1 hour; 100 ng/mL Interleukin-15 for 1 hour,blood
+37,activated CD4-positive; alpha-beta T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 1 hour; 100 ng/mL Interleukin-23 for 1 hour; 100 ng/mL Interleukin-1b for 1 hour,blood
+38,activated CD4-positive; alpha-beta T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 1 hour; 100 ng/mL Interleukin-4 for 1 hour,blood
+39,activated CD4-positive; alpha-beta T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 1 hour; 100 ng/mL TNF-alpha for 1 hour,blood
+40,activated CD4-positive; alpha-beta T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 24 hours,blood
+41,activated CD4-positive; alpha-beta T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 24 hours; 100 ng/mL Interleukin-12 subunit alpha for 24 hours; 100 ng/mL Interleukin-12 subunit beta for 24 hours,blood
+42,activated CD4-positive; alpha-beta T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 24 hours; 100 ng/mL Interleukin-15 for 24 hours,blood
+43,activated CD4-positive; alpha-beta T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 24 hours; 100 ng/mL Interleukin-23 for 24 hours; 100 ng/mL Interleukin-1b for 24 hours,blood
+44,activated CD4-positive; alpha-beta T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 24 hours; 100 ng/mL Interleukin-2 for 24 hours,blood
+45,activated CD4-positive; alpha-beta T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 24 hours; 100 ng/mL Interleukin-4 for 24 hours,blood
+46,activated CD4-positive; alpha-beta T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 24 hours; 100 ng/mL TNF-alpha for 24 hours,blood
+47,activated CD4-positive; alpha-beta T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 24 hours; 50 U/mL Interleukin-2 for 24 hours,blood
+48,activated CD4-positive; alpha-beta T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours,blood
+49,activated CD4-positive; alpha-beta T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours; 100 ng/mL Interleukin-12 subunit alpha for 48 hours; 100 ng/mL Interleukin-12 subunit beta for 48 hours,blood
+50,activated CD4-positive; alpha-beta T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours; 100 ng/mL Interleukin-15 for 48 hours,blood
+51,activated CD4-positive; alpha-beta T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours; 100 ng/mL Interleukin-23 for 48 hours; 100 ng/mL Interleukin-1b for 48 hours,blood
+52,activated CD4-positive; alpha-beta T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours; 100 ng/mL Interleukin-2 for 48 hours,blood
+53,activated CD4-positive; alpha-beta T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours; 100 ng/mL Interleukin-4 for 48 hours,blood
+54,activated CD4-positive; alpha-beta T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours; 100 ng/mL TNF-alpha for 48 hours,blood
+55,activated CD4-positive; alpha-beta T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 4 hours,blood
+56,activated CD4-positive; alpha-beta T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 4 hours; 100 ng/mL Interleukin-12 subunit alpha for 4 hours; 100 ng/mL Interleukin-12 subunit beta for 4 hours,blood
+57,activated CD4-positive; alpha-beta T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 4 hours; 100 ng/mL Interleukin-23 for 4 hours; 100 ng/mL Interleukin-1b for 4 hours,blood
+58,activated CD4-positive; alpha-beta T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 4 hours; 100 ng/mL Interleukin-2 for 4 hours,blood
+59,activated CD4-positive; alpha-beta T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 4 hours; 100 ng/mL Interleukin-4 for 4 hours,blood
+60,activated CD4-positive; alpha-beta T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 4 hours; 100 ng/mL TNF-alpha for 4 hours,blood
+61,activated CD4-positive; alpha-beta T cell male adult 42 years treated with anti-CD3 and anti-CD28 coated beads for 1 hour; 100 ng/mL Interleukin-15 for 1 hour,blood
+62,activated CD4-positive; alpha-beta T cell male adult 42 years treated with anti-CD3 and anti-CD28 coated beads for 1 hour; 100 ng/mL Interleukin-23 for 1 hour; 100 ng/mL Interleukin-1b for 1 hour,blood
+63,activated CD4-positive; alpha-beta T cell male adult 42 years treated with anti-CD3 and anti-CD28 coated beads for 1 hour; 100 ng/mL TNF-alpha for 1 hour,blood
+64,activated CD4-positive; alpha-beta T cell male adult 42 years treated with anti-CD3 and anti-CD28 coated beads for 1 hour; 50 U/mL Interleukin-2 for 1 hour,blood
+65,activated CD4-positive; alpha-beta T cell male adult 42 years treated with anti-CD3 and anti-CD28 coated beads for 24 hours; 100 ng/mL Interleukin-23 for 24 hours; 100 ng/mL Interleukin-1b for 24 hours,blood
+66,activated CD4-positive; alpha-beta T cell male adult 42 years treated with anti-CD3 and anti-CD28 coated beads for 24 hours; 100 ng/mL Interleukin-2 for 24 hours,blood
+67,activated CD4-positive; alpha-beta T cell male adult 42 years treated with anti-CD3 and anti-CD28 coated beads for 24 hours; 100 ng/mL Interleukin-4 for 24 hours,blood
+68,activated CD4-positive; alpha-beta T cell male adult 42 years treated with anti-CD3 and anti-CD28 coated beads for 24 hours; 100 ng/mL TNF-alpha for 24 hours,blood
+69,activated CD4-positive; alpha-beta T cell male adult 42 years treated with anti-CD3 and anti-CD28 coated beads for 24 hours; 50 U/mL Interleukin-2 for 24 hours,blood
+70,activated CD4-positive; alpha-beta T cell male adult 42 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours,blood
+71,activated CD4-positive; alpha-beta T cell male adult 42 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours; 100 ng/mL Interleukin-12 subunit alpha for 48 hours; 100 ng/mL Interleukin-12 subunit beta for 48 hours,blood
+72,activated CD4-positive; alpha-beta T cell male adult 42 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours; 100 ng/mL Interleukin-23 for 48 hours; 100 ng/mL Interleukin-1b for 48 hours,blood
+73,activated CD4-positive; alpha-beta T cell male adult 42 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours; 100 ng/mL Interleukin-2 for 48 hours,blood
+74,activated CD4-positive; alpha-beta T cell male adult 42 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours; 100 ng/mL Interleukin-4 for 48 hours,blood
+75,activated CD4-positive; alpha-beta T cell male adult 42 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours; 100 ng/mL TNF-alpha for 48 hours,blood
+76,activated CD4-positive; alpha-beta T cell male adult 42 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours; 50 U/mL Interleukin-2 for 48 hours,blood
+77,activated CD4-positive; alpha-beta T cell male adult 42 years treated with anti-CD3 and anti-CD28 coated beads for 4 hours,blood
+78,activated CD4-positive; alpha-beta T cell male adult 42 years treated with anti-CD3 and anti-CD28 coated beads for 4 hours; 100 ng/mL Interleukin-12 subunit alpha for 4 hours; 100 ng/mL Interleukin-12 subunit beta for 4 hours,blood
+79,activated CD4-positive; alpha-beta T cell male adult 42 years treated with anti-CD3 and anti-CD28 coated beads for 4 hours; 100 ng/mL Interleukin-4 for 4 hours,blood
+80,activated CD4-positive; alpha-beta T cell male adult 42 years treated with anti-CD3 and anti-CD28 coated beads for 4 hours; 100 ng/mL TNF-alpha for 4 hours,blood
+81,activated CD4-positive; alpha-beta T cell male adult 42 years treated with anti-CD3 and anti-CD28 coated beads for 4 hours; 50 U/mL Interleukin-2 for 4 hours,blood
+82,activated CD4 positive; naive alpha-beta T cell male adult 43 years treated with 10 ng/mL Interleukin-2 ; anti-CD3 and anti-CD28 coated beads,blood
+83,activated CD4 positive; naive alpha-beta T cell male adult 43 years treated with anti-CD3 and anti-CD28 coated beads,blood
+84,activated CD8-positive; alpha-beta memory T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 1 hour,blood
+85,activated CD8-positive; alpha-beta memory T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 1 hour; 100 ng/mL Interleukin-2 for 1 hour,blood
+86,activated CD8-positive; alpha-beta memory T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 1 hour; 100 ng/mL Interleukin-4 for 1 hour,blood
+87,activated CD8-positive; alpha-beta memory T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 1 hour; 100 ng/mL Interleukin-7 for 1 hour,blood
+88,activated CD8-positive; alpha-beta memory T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 1 hour; 50 U/mL Interleukin-2 for 1 hour,blood
+89,activated CD8-positive; alpha-beta memory T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 24 hours,blood
+90,activated CD8-positive; alpha-beta memory T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 24 hours; 100 ng/mL Interleukin-4 for 24 hours,blood
+91,activated CD8-positive; alpha-beta memory T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours,blood
+92,activated CD8-positive; alpha-beta memory T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours; 100 ng/mL Interleukin-15 for 48 hours,blood
+93,activated CD8-positive; alpha-beta memory T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours; 100 ng/mL Interleukin-2 for 48 hours,blood
+94,activated CD8-positive; alpha-beta memory T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours; 100 ng/mL Interleukin-4 for 48 hours,blood
+95,activated CD8-positive; alpha-beta memory T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours; 100 ng/mL Interleukin-7 for 48 hours,blood
+96,activated CD8-positive; alpha-beta memory T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours; 50 U/mL Interleukin-2 for 48 hours,blood
+97,activated CD8-positive; alpha-beta memory T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 4 hours,blood
+98,activated CD8-positive; alpha-beta memory T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 4 hours; 100 ng/mL Interleukin-12 subunit alpha for 4 hours; 100 ng/mL Interleukin-12 subunit beta for 4 hours,blood
+99,activated CD8-positive; alpha-beta memory T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 4 hours; 100 ng/mL Interleukin-15 for 4 hours,blood
+100,activated CD8-positive; alpha-beta memory T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 4 hours; 100 ng/mL Interleukin-4 for 4 hours,blood
+101,activated CD8-positive; alpha-beta memory T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 4 hours; 100 ng/mL Interleukin-7 for 4 hours,blood
+102,activated CD8-positive; alpha-beta memory T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 4 hours; 50 U/mL Interleukin-2 for 4 hours,blood
+103,activated CD8-positive; alpha-beta memory T cell male adult 30 years treated with 10 ng/mL Interleukin-2 ; anti-CD3 and anti-CD28 coated beads,blood
+104,activated CD8-positive; alpha-beta memory T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 1 hour,blood
+105,activated CD8-positive; alpha-beta memory T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 1 hour; 100 ng/mL Interleukin-12 subunit alpha for 1 hour; 100 ng/mL Interleukin-12 subunit beta for 1 hour,blood
+106,activated CD8-positive; alpha-beta memory T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 1 hour; 100 ng/mL Interleukin-15 for 1 hour,blood
+107,activated CD8-positive; alpha-beta memory T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 1 hour; 100 ng/mL Interleukin-2 for 1 hour,blood
+108,activated CD8-positive; alpha-beta memory T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 1 hour; 100 ng/mL Interleukin-4 for 1 hour,blood
+109,activated CD8-positive; alpha-beta memory T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 1 hour; 100 ng/mL Interleukin-7 for 1 hour,blood
+110,activated CD8-positive; alpha-beta memory T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 24 hours,blood
+111,activated CD8-positive; alpha-beta memory T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 24 hours; 100 ng/mL Interleukin-12 subunit alpha for 24 hours; 100 ng/mL Interleukin-12 subunit beta for 24 hours,blood
+112,activated CD8-positive; alpha-beta memory T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 24 hours; 100 ng/mL Interleukin-15 for 24 hours,blood
+113,activated CD8-positive; alpha-beta memory T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 24 hours; 100 ng/mL Interleukin-7 for 24 hours,blood
+114,activated CD8-positive; alpha-beta memory T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 24 hours; 50 U/mL Interleukin-2 for 24 hours,blood
+115,activated CD8-positive; alpha-beta memory T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours,blood
+116,activated CD8-positive; alpha-beta memory T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours; 100 ng/mL Interleukin-15 for 48 hours,blood
+117,activated CD8-positive; alpha-beta memory T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours; 100 ng/mL Interleukin-2 for 48 hours,blood
+118,activated CD8-positive; alpha-beta memory T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours; 100 ng/mL Interleukin-4 for 48 hours,blood
+119,activated CD8-positive; alpha-beta memory T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours; 100 ng/mL Interleukin-7 for 48 hours,blood
+120,activated CD8-positive; alpha-beta memory T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours; 50 U/mL Interleukin-2 for 48 hours,blood
+121,activated CD8-positive; alpha-beta memory T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 4 hours,blood
+122,activated CD8-positive; alpha-beta memory T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 4 hours; 100 ng/mL Interleukin-15 for 4 hours,blood
+123,activated CD8-positive; alpha-beta memory T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 4 hours; 100 ng/mL Interleukin-4 for 4 hours,blood
+124,activated CD8-positive; alpha-beta memory T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 4 hours; 100 ng/mL Interleukin-7 for 4 hours,blood
+125,activated CD8-positive; alpha-beta T cell male adult 21 years treated with 10 ng/mL Interleukin-2 ; anti-CD3 and anti-CD28 coated beads,blood
+126,activated CD8-positive; alpha-beta T cell male adult 21 years treated with anti-CD3 and anti-CD28 coated beads,blood
+127,activated T-cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 1 hour; 50 U/mL Interleukin-2 for 1 hour,blood
+128,activated T-cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 24 hours; 50 U/mL Interleukin-2 for 24 hours,blood
+129,activated T-cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours; 50 U/mL Interleukin-2 for 48 hours,blood
+130,activated T-cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 4 hours; 50 U/mL Interleukin-2 for 4 hours,blood
+131,activated T-cell male adult 38 years,bodily fluid
+132,activated T-cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 1 hour,blood
+133,activated T-cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 1 hour; 50 U/mL Interleukin-2 for 1 hour,blood
+134,activated T-cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 24 hours,blood
+135,activated T-cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 48 hours,blood
+136,activated T-cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 4 hours,blood
+137,adipocyte,connective tissue
+138,adipocyte originated from mesenchymal stem cell,connective tissue
+139,adipose tissue tissue male adult 34 years,adipose tissue
+140,adrenal gland tissue embryo 96 days,adrenal gland
+141,adrenal gland tissue female adult 30 years,endocrine gland
+142,adrenal gland tissue female adult 41 years,endocrine gland
+143,adrenal gland tissue female adult 47 years,adrenal gland
+144,adrenal gland tissue female adult 51 years,adrenal gland
+145,adrenal gland tissue female adult 53 years,adrenal gland
+146,adrenal gland tissue female child 16 years,adrenal gland
+147,adrenal gland tissue female embryo 108 days,adrenal gland
+148,adrenal gland tissue female embryo 113 days,adrenal gland
+149,adrenal gland tissue female embryo 85 days,adrenal gland
+150,adrenal gland tissue male adult 34 years,endocrine gland
+151,adrenal gland tissue male adult 37 years,adrenal gland
+152,adrenal gland tissue male adult 54 years,adrenal gland
+153,adrenal gland tissue male embryo 101 days,adrenal gland
+154,adrenal gland tissue male embryo 108 days,adrenal gland
+155,adrenal gland tissue male embryo 85 days,adrenal gland
+156,adrenal gland tissue male embryo 97 days,adrenal gland
+157,AG04449,skin of body
+158,AG04450,lung
+159,AG08395,connective tissue
+160,AG08396,connective tissue
+161,AG09309,skin of body
+162,AG09319,mouth
+163,AG10803,skin of body
+164,AG20443,connective tissue
+165,Ammon's horn tissue male adult 84 years,brain
+166,amnion tissue male embryo 16 weeks,extraembryonic component
+167,amniotic epithelial cell,epithelium
+168,amniotic stem cell male embryo 15 weeks,extraembryonic component
+169,angular gyrus tissue female adult 75 years,brain
+170,angular gyrus tissue male adult 81 years,brain
+171,aorta tissue female adult 30 years,vasculature
+172,aorta tissue female adult 41 years,blood vessel
+173,aorta tissue female adult 59 years,blood vessel
+174,aorta tissue male adult 34 years,arterial blood vessel
+175,ascending aorta tissue female adult 51 years,vasculature
+176,ascending aorta tissue female adult 53 years,blood vessel
+177,astrocyte,spinal cord
+178,astrocyte of the cerebellum,brain
+179,astrocyte of the hippocampus,brain
+180,astrocyte of the spinal cord,spinal cord
+181,B cell,bodily fluid
+182,B cell female adult 27 years,bodily fluid
+183,B cell female adult 27 years and female adult 43 years,blood
+184,B cell female adult 34 years,blood
+185,B cell female adult 43 years,blood
+186,B cell male adult 21 years,blood
+187,B cell male adult 22 years,blood
+188,B cell male adult 37 years,bodily fluid
+189,BE2C,brain
+190,bipolar neuron originated from GM23338 treated with 0.5 ?g/mL doxycycline hyclate for 4 days,brain
+191,BJ,penis
+192,body of pancreas tissue female adult 51 years,pancreas
+193,body of pancreas tissue female adult 53 years,pancreas
+194,body of pancreas tissue male adult 37 years,pancreas
+195,body of pancreas tissue male adult 54 years,pancreas
+196,brain microvascular endothelial cell,vasculature
+197,brain organoid female embryo 5 days differentiated 180 days,brain
+198,brain pericyte,brain
+199,brain tissue embryo 112 days,brain
+200,brain tissue embryo 56 days and male embryo 58 days,brain
+201,brain tissue embryo 80 days,brain
+202,brain tissue female embryo 105 days,brain
+203,brain tissue female embryo 109 days,brain
+204,brain tissue female embryo 117 days,brain
+205,brain tissue female embryo 142 days,brain
+206,brain tissue female embryo 17 weeks,brain
+207,brain tissue female embryo 85 days,brain
+208,brain tissue female embryo 96 days,brain
+209,brain tissue male embryo 101 days,brain
+210,brain tissue male embryo 104 days,brain
+211,brain tissue male embryo 105 days,brain
+212,brain tissue male embryo 122 days,brain
+213,brain tissue male embryo 72 days and male embryo 76 days,brain
+214,breast epithelium tissue female adult 51 years,epithelium
+215,breast epithelium tissue female adult 53 years,breast
+216,breast epithelium tissue male adult 37 years,epithelium
+217,breast epithelium tissue male adult 54 years,epithelium
+218,bronchial epithelial cell,lung
+219,bronchial epithelial cell female treated with 6 ?M retinoic acid for 48 hours,epithelium
+220,C4-2B,prostate gland
+221,C803,epithelium
+222,Caco-2,intestine
+223,Caki2,epithelium
+224,cardiac fibroblast,heart
+225,cardiac fibroblast female adult,heart
+226,cardiac fibroblast female embryo 94 days and female embryo 98 days,heart
+227,cardiac muscle cell,musculature of body
+228,cardiac muscle cell originated from H7 treated with 5 ng/mL Fibroblast growth factor 2 for 14 days; 10 ng/mL Bone morphogenetic protein 4 for 14 days; 6 ng/mL Activin A for 14 days,heart
+229,cardiac muscle cell originated from RUES2,musculature of body
+230,cardiac myoblast originated from H7 treated with 10 ng/mL Bone morphogenetic protein 4 for 9 days; 5 ng/mL Fibroblast growth factor 2 for 9 days; 6 ng/mL Activin A for 9 days,heart
+231,cardiac septum tissue female adult 41 years,heart
+232,cardiovascular progenitor cell originated from H7 treated with 5 ng/mL Fibroblast growth factor 2 for 5 days; 10 ng/mL Bone morphogenetic protein 4 for 5 days; 6 ng/mL Activin A for 5 days,fibroblast
+233,caudate nucleus tissue female adult 75 years,brain
+234,caudate nucleus tissue male adult 78 years,brain
+235,caudate nucleus tissue male adult 81 years,brain
+236,CD14-positive monocyte donor ENCDO258PRN,bodily fluid
+237,CD14-positive monocyte donor ENCDO836ICQ,bodily fluid
+238,CD14-positive monocyte female adult 34 years,blood
+239,CD14-positive monocyte female donor ENCDO265AAA,blood
+240,CD14-positive monocyte female donor ENCDO266AAA,blood
+241,CD14-positive monocyte male adult 21 years,bodily fluid
+242,CD14-positive monocyte male adult 21 years and male adult 40 years,blood
+243,CD14-positive monocyte male adult 30 years,bodily fluid
+244,CD14-positive monocyte male adult 37 years,bodily fluid
+245,CD14-positive monocyte originated from CD14-positive monocyte donor ENCDO157PKH,bodily fluid
+246,CD14-positive monocyte originated from CD14-positive monocyte donor ENCDO187BUH,bodily fluid
+247,CD14-positive monocyte originated from CD14-positive monocyte donor ENCDO553CCA,bodily fluid
+248,CD14-positive monocyte originated from CD14-positive monocyte donor ENCDO922TOC,bodily fluid
+249,CD1c-positive myeloid dendritic cell,blood
+250,CD4-positive; alpha-beta memory T cell donor ENCDO194EHQ,bodily fluid
+251,CD4-positive; alpha-beta memory T cell donor ENCDO258PRN,bodily fluid
+252,CD4-positive; alpha-beta memory T cell donor ENCDO553CCA,bodily fluid
+253,CD4-positive; alpha-beta memory T cell donor ENCDO688UWB,bodily fluid
+254,CD4-positive; alpha-beta memory T cell donor ENCDO922CEJ,bodily fluid
+255,CD4-positive; alpha-beta memory T cell male adult 43 years,bodily fluid
+256,CD4-positive; alpha-beta memory T cell originated from blood cell,bodily fluid
+257,CD4-positive; alpha-beta memory T cell originated from CD4-positive; alpha-beta memory T cell donor ENCDO187BUH,bodily fluid
+258,CD4-positive; alpha-beta memory T cell originated from CD4-positive; alpha-beta memory T cell donor ENCDO836ICQ,bodily fluid
+259,CD4-positive; alpha-beta memory T cell originated from CD4-positive; alpha-beta memory T cell donor ENCDO922TOC,bodily fluid
+260,CD4-positive; alpha-beta memory T cell originated from CD4-positive; alpha-beta memory T cell donor ENCDO976NED,bodily fluid
+261,CD4-positive; alpha-beta T cell,bodily fluid
+262,CD4-positive; alpha-beta T cell female adult 26 years and female adult 39 years; treated with Interferon alpha-2 for 1 hour,blood
+263,CD4-positive; alpha-beta T cell female adult 26 years and female adult 39 years; treated with Interleukin-1 beta for 1 hour,blood
+264,CD4-positive; alpha-beta T cell female adult 26 years and female adult 39 years; treated with Interleukin-4 for 1 hour,blood
+265,CD4-positive; alpha-beta T cell female adult 26 years treated with Interferon gamma for 1 hour,blood
+266,CD4-positive; alpha-beta T cell female adult 26 years treated with Interleukin-15 for 1 hour,blood
+267,CD4-positive; alpha-beta T cell female adult 33 years donor ENCDO299FMV,blood
+268,CD4-positive; alpha-beta T cell female adult 33 years donor ENCDO412QUR,blood
+269,CD4-positive; alpha-beta T cell female adult 37 years,blood
+270,CD4-positive; alpha-beta T cell female adult 37 years treated with Interleukin-17A for 4 hours,blood
+271,CD4-positive; alpha-beta T cell female adult 37 years treated with Interleukin-6 for 4 hours,blood
+272,CD4-positive; alpha-beta T cell female adult 37 years treated with Interleukin-6 for 8 hours,blood
+273,CD4-positive; alpha-beta T cell female adult 39 years,blood
+274,CD4-positive; alpha-beta T cell female adult 39 years treated with 100 ng/mL Interleukin-2 for 4 hours,blood
+275,CD4-positive; alpha-beta T cell female adult 39 years treated with Interleukin-10 for 1 hour,blood
+276,CD4-positive; alpha-beta T cell female adult 39 years treated with Interleukin-12 subunit beta for 1 hour; Interleukin-12 subunit alpha for 1 hour,blood
+277,CD4-positive; alpha-beta T cell female adult 39 years treated with Interleukin-15 for 4 hours,blood
+278,CD4-positive; alpha-beta T cell female adult 39 years treated with Interleukin-17A for 1 hour,blood
+279,CD4-positive; alpha-beta T cell female adult 39 years treated with Interleukin-21 for 1 hour,blood
+280,CD4-positive; alpha-beta T cell female adult 39 years treated with Interleukin-4 for 4 hours,blood
+281,CD4-positive; alpha-beta T cell male adult 20 years,bodily fluid
+282,CD4-positive; alpha-beta T cell male adult 21 years,bodily fluid
+283,CD4-positive; alpha-beta T cell male adult 21 years treated with 7.5 ?g/kg G-CSF for 4 days,blood
+284,CD4-positive; alpha-beta T cell male adult 37 years,blood
+285,CD4-positive; alpha-beta T cell male adult 37 years treated with 7.5 ?g/kg G-CSF for 4 days,blood
+286,CD4-positive; alpha-beta T cell male adult 38 years,blood
+287,CD4-positive; alpha-beta T cell male adult 42 years,blood
+288,CD4-positive; alpha-beta T cell treated with phorbol 13-acetate 12-myristate ; ionomycin,bodily fluid
+289,CD4-positive; CD25-positive; alpha-beta regulatory T cell donor ENCDO194EHQ,bodily fluid
+290,CD4-positive; CD25-positive; alpha-beta regulatory T cell donor ENCDO258PRN,bodily fluid
+291,CD4-positive; CD25-positive; alpha-beta regulatory T cell donor ENCDO836ICQ,bodily fluid
+292,CD4-positive; CD25-positive; alpha-beta regulatory T cell originated from CD4-positive; CD25-positive; alpha-beta regulatory T cell donor ENCDO922TOC,bodily fluid
+293,CD4-positive; CD25-positive; alpha-beta regulatory T cell originated from CD4-positive; CD25-positive; alpha-beta regulatory T cell donor ENCDO976NED,bodily fluid
+294,CD4-positive naive resting alpha-beta T cell female adult 25 years,blood
+295,CD4-positive naive resting alpha-beta T cell male adult 24 years,blood
+296,CD4-positive naive resting alpha-beta T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 16 hours; 50 U/mL Interleukin-2 for 16 hours,blood
+297,CD4-positive naive resting alpha-beta T cell male adult 42 years treated with 50 U/mL Interleukin-2 for 16 hours,blood
+298,CD4-positive naive resting alpha-beta T cell male adult 42 years treated with anti-CD3 and anti-CD28 coated beads for 16 hours; 50 U/mL Interleukin-2 for 16 hours,blood
+299,CD4-positive naive resting alpha-beta T cell male adult 43 years,bodily fluid
+300,CD8-positive; alpha-beta memory T cell donor ENCDO258PRN,bodily fluid
+301,CD8-positive; alpha-beta memory T cell donor ENCDO553CCA,bodily fluid
+302,CD8-positive; alpha-beta memory T cell donor ENCDO688UWB,bodily fluid
+303,CD8-positive; alpha-beta memory T cell donor ENCDO836ICQ,bodily fluid
+304,CD8-positive; alpha-beta memory T cell donor ENCDO922CEJ,bodily fluid
+305,CD8-positive; alpha-beta memory T cell male adult 24 years,blood
+306,CD8-positive; alpha-beta memory T cell male adult 30 years donor ENCDO166AGR,blood
+307,CD8-positive; alpha-beta memory T cell male adult 30 years donor ENCDO739OLY,blood
+308,CD8-positive; alpha-beta memory T cell originated from CD8-positive; alpha-beta memory T cell donor ENCDO187BUH,bodily fluid
+309,CD8-positive; alpha-beta memory T cell originated from CD8-positive; alpha-beta memory T cell donor ENCDO922TOC,bodily fluid
+310,CD8-positive; alpha-beta memory T cell originated from CD8-positive; alpha-beta memory T cell donor ENCDO976NED,bodily fluid
+311,CD8-positive; alpha-beta T cell,bodily fluid
+312,CD8-positive; alpha-beta T cell female adult 33 years donor ENCDO299FMV,blood
+313,CD8-positive; alpha-beta T cell female adult 33 years donor ENCDO412QUR,blood
+314,CD8-positive; alpha-beta T cell female adult 34 years,blood
+315,CD8-positive; alpha-beta T cell male adult 21 years donor ENCDO123NFT,bodily fluid
+316,CD8-positive; alpha-beta T cell male adult 21 years donor ENCDO190HXC,bodily fluid
+317,CD8-positive; alpha-beta T cell male adult 21 years donor ENCDO781BMZ,blood
+318,CD8-positive; alpha-beta T cell male adult 21 years treated with 7.5 ?g/kg G-CSF for 4 days,blood
+319,CD8-positive; alpha-beta T cell male adult 28 years,bodily fluid
+320,CD8-positive; alpha-beta T cell male adult 37 years,blood
+321,CD8-positive; alpha-beta T cell male adult 38 years,blood
+322,CD8-positive; alpha-beta T cell male adult 42 years,blood
+323,CD8-positive naive resting alpha-beta T cell male adult 24 years,blood
+324,CD8-positive naive resting alpha-beta T cell male adult 30 years donor ENCDO166AGR,blood
+325,CD8-positive naive resting alpha-beta T cell male adult 30 years donor ENCDO739OLY,blood
+326,CD8-positive naive resting alpha-beta T cell male adult 42 years treated with anti-CD3 and anti-CD28 coated beads for 16 hours; 50 U/mL Interleukin-2 for 16 hours,blood
+327,CD8-positive naive resting alpha-beta T cell male adult 56 years,blood
+328,central memory CD4-positive; alpha-beta T cell male adult 38 years,blood
+329,central memory CD4-positive; alpha-beta T cell male adult 42 years,blood
+330,cerebellar cortex tissue male adult 78 years and male adult 84 years,brain
+331,cerebellum tissue male adult 27 years and male adult 35 years,brain
+332,cerebellum tissue male adult 53 years,brain
+333,chorion tissue,extraembryonic component
+334,chorion tissue female embryo 40 weeks,extraembryonic component
+335,chorion tissue male embryo 16 weeks,extraembryonic component
+336,chorionic villus tissue embryo 16 weeks,extraembryonic component
+337,chorionic villus tissue female embryo 40 weeks,extraembryonic component
+338,chorionic villus tissue male embryo 16 weeks,extraembryonic component
+339,chorionic villus tissue male embryo 38 weeks,extraembryonic component
+340,choroid plexus epithelial cell,vasculature
+341,cingulate gyrus tissue female adult 75 years,brain
+342,cingulate gyrus tissue male adult 81 years,brain
+343,CMK,blood
+344,COLO829,connective tissue
+345,colonic mucosa tissue female adult 56 years,intestine
+346,colonic mucosa tissue female adult 73 years,intestine
+347,colonic mucosa tissue female child 16 years,large intestine
+348,common myeloid progenitor; CD34-positive donor ENCDO908ZKJ,bone marrow
+349,common myeloid progenitor; CD34-positive donor ENCDO930ZLO,bone marrow
+350,common myeloid progenitor; CD34-positive female,bone element
+351,common myeloid progenitor; CD34-positive female adult 27 years,bone element
+352,common myeloid progenitor; CD34-positive female adult 33 years,bone element
+353,common myeloid progenitor; CD34-positive female adult 50 years,bone element
+354,common myeloid progenitor; CD34-positive male,bone element
+355,common myeloid progenitor; CD34-positive male adult,bone marrow
+356,common myeloid progenitor; CD34-positive male adult 23 years,bone element
+357,common myeloid progenitor; CD34-positive male adult 36 years,bone element
+358,common myeloid progenitor; CD34-positive male adult 37 years,bone element
+359,common myeloid progenitor; CD34-positive male adult 42 years,bone element
+360,common myeloid progenitor; CD34-positive male adult 43 years,bone element
+361,common myeloid progenitor; CD34-positive male adult 49 years,bone element
+362,coronary artery tissue female adult 51 years,heart
+363,coronary artery tissue female adult 53 years,vasculature
+364,CWRU1,connective tissue
+365,D341Med,brain
+366,D721Med,brain
+367,Daoy,brain
+368,dedifferentiated amniotic fluid mesenchymal stem cell male embryo 15 weeks,extraembryonic component
+369,dermis blood vessel endothelial cell female adult donor ENCDO239AAA,epithelium
+370,dermis blood vessel endothelial cell female adult donor ENCDO240AAA,epithelium
+371,dermis blood vessel endothelial cell male newborn donor ENCDO241AAA,epithelium
+372,dermis blood vessel endothelial cell male newborn donor ENCDO244AAA,epithelium
+373,dermis microvascular lymphatic vessel endothelial cell female,epithelium
+374,dermis microvascular lymphatic vessel endothelial cell male,epithelium
+375,DND-41,bodily fluid
+376,DOHH2,
+377,dorsolateral prefrontal cortex tissue female adult 74 years with Alzheimer's disease,brain
+378,dorsolateral prefrontal cortex tissue female adult 78 years,brain
+379,dorsolateral prefrontal cortex tissue female adult 79 years,brain
+380,dorsolateral prefrontal cortex tissue female adult 81 years with Alzheimer's disease,brain
+381,dorsolateral prefrontal cortex tissue female adult 81 years with Cognitive impairment,brain
+382,dorsolateral prefrontal cortex tissue female adult 82 years,brain
+383,dorsolateral prefrontal cortex tissue female adult 83 years,brain
+384,dorsolateral prefrontal cortex tissue female adult 83 years with mild cognitive impairment,brain
+385,dorsolateral prefrontal cortex tissue female adult 84 years,brain
+386,dorsolateral prefrontal cortex tissue female adult 85 years with Alzheimer's disease,brain
+387,dorsolateral prefrontal cortex tissue female adult 86 years with Alzheimer's disease,brain
+388,dorsolateral prefrontal cortex tissue female adult 86 years with Cognitive impairment,brain
+389,dorsolateral prefrontal cortex tissue female adult 87 years donor ENCDO423GGP,brain
+390,dorsolateral prefrontal cortex tissue female adult 87 years donor ENCDO640RUC,brain
+391,dorsolateral prefrontal cortex tissue female adult 87 years with Cognitive impairment; Alzheimer's disease,brain
+392,dorsolateral prefrontal cortex tissue female adult 87 years with mild cognitive impairment,brain
+393,dorsolateral prefrontal cortex tissue female adult 88 years,brain
+394,dorsolateral prefrontal cortex tissue female adult 88 years with Alzheimer's disease,brain
+395,dorsolateral prefrontal cortex tissue female adult 88 years with mild cognitive impairment,brain
+396,dorsolateral prefrontal cortex tissue female adult 89 years,brain
+397,dorsolateral prefrontal cortex tissue female adult 89 years with Alzheimer's disease donor ENCDO830KFO,brain
+398,dorsolateral prefrontal cortex tissue female adult 89 years with Alzheimer's disease donor ENCDO853VGZ,brain
+399,dorsolateral prefrontal cortex tissue female adult 90 or above years donor ENCDO006DAA,brain
+400,dorsolateral prefrontal cortex tissue female adult 90 or above years donor ENCDO101GPB,brain
+401,dorsolateral prefrontal cortex tissue female adult 90 or above years donor ENCDO218FFZ,brain
+402,dorsolateral prefrontal cortex tissue female adult 90 or above years donor ENCDO250PFZ,brain
+403,dorsolateral prefrontal cortex tissue female adult 90 or above years with Alzheimer's disease donor ENCDO201EUI,brain
+404,dorsolateral prefrontal cortex tissue female adult 90 or above years with Alzheimer's disease donor ENCDO637GUS,brain
+405,dorsolateral prefrontal cortex tissue female adult 90 or above years with Alzheimer's disease donor ENCDO847KYQ,brain
+406,dorsolateral prefrontal cortex tissue female adult 90 or above years with Alzheimer's disease donor ENCDO865EMM,brain
+407,dorsolateral prefrontal cortex tissue female adult 90 or above years with Cognitive impairment; Alzheimer's disease,brain
+408,dorsolateral prefrontal cortex tissue female adult 90 or above years with Cognitive impairment donor ENCDO359XWR,brain
+409,dorsolateral prefrontal cortex tissue female adult 90 or above years with Cognitive impairment donor ENCDO448YMQ,brain
+410,dorsolateral prefrontal cortex tissue female adult 90 or above years with mild cognitive impairment donor ENCDO033BMB,brain
+411,dorsolateral prefrontal cortex tissue female adult 90 or above years with mild cognitive impairment donor ENCDO153NUY,brain
+412,dorsolateral prefrontal cortex tissue female adult 90 or above years with mild cognitive impairment donor ENCDO471EKG,brain
+413,dorsolateral prefrontal cortex tissue female adult 90 or above years with mild cognitive impairment donor ENCDO634UMA,brain
+414,dorsolateral prefrontal cortex tissue female adult 90 or above years with mild cognitive impairment donor ENCDO660TGP,brain
+415,dorsolateral prefrontal cortex tissue female adult 90 or above years with mild cognitive impairment donor ENCDO672KST,brain
+416,dorsolateral prefrontal cortex tissue female adult 90 or above years with mild cognitive impairment donor ENCDO739EFE,brain
+417,dorsolateral prefrontal cortex tissue female adult 90 or above years with mild cognitive impairment donor ENCDO915WZE,brain
+418,dorsolateral prefrontal cortex tissue male adult 71 years,brain
+419,dorsolateral prefrontal cortex tissue male adult 78 years,brain
+420,dorsolateral prefrontal cortex tissue male adult 82 years,brain
+421,dorsolateral prefrontal cortex tissue male adult 83 years donor ENCDO592ZWW,brain
+422,dorsolateral prefrontal cortex tissue male adult 83 years donor ENCDO736YJH,brain
+423,dorsolateral prefrontal cortex tissue male adult 84 years,brain
+424,dorsolateral prefrontal cortex tissue male adult 86 years,brain
+425,dorsolateral prefrontal cortex tissue male adult 87 years,brain
+426,dorsolateral prefrontal cortex tissue male adult 87 years with Cognitive impairment; Alzheimer's disease,brain
+427,dorsolateral prefrontal cortex tissue male adult 89 years with mild cognitive impairment,brain
+428,dorsolateral prefrontal cortex tissue male adult 90 or above years with mild cognitive impairment,brain
+429,duodenal mucosa tissue male adult 59 years,intestine
+430,duodenal mucosa tissue male adult 76 years,intestine
+431,ecto neural progenitor cell originated from H9,ESC derived
+432,ectodermal cell originated from HUES64,embryo
+433,effector CD4-positive; alpha-beta T cell female adult 25 years,blood
+434,effector CD4-positive; alpha-beta T cell male adult 56 years,blood
+435,effector memory CD4-positive; alpha-beta T cell,bodily fluid
+436,effector memory CD4-positive; alpha-beta T cell female adult 25 years,blood
+437,effector memory CD4-positive; alpha-beta T cell male adult 24 years,blood
+438,effector memory CD4-positive; alpha-beta T cell male adult 38 years treated with 50 U/mL Interleukin-2 for 16 hours,blood
+439,effector memory CD4-positive; alpha-beta T cell male adult 38 years treated with anti-CD3 and anti-CD28 coated beads for 16 hours; 50 U/mL Interleukin-2 for 16 hours,blood
+440,effector memory CD4-positive; alpha-beta T cell male adult 42 years treated with 50 U/mL Interleukin-2 for 16 hours,blood
+441,effector memory CD4-positive; alpha-beta T cell male adult 56 years,blood
+442,EH,penis
+443,EL,penis
+444,ELF-1,embryo
+445,ELR,penis
+446,embryonic facial prominence tissue embryo 53 days and embryo 58 days,embryo
+447,endocrine pancreas tissue adult 59 years,pancreas
+448,endocrine pancreas tissue male adult 45 years,pancreas
+449,endocrine pancreas tissue male adult 46 years,pancreas
+450,endodermal cell,embryo
+451,endodermal cell originated from endodermal cell,embryo
+452,endodermal cell originated from HUES64,embryo
+453,endothelial cell of umbilical vein male newborn donor ENCDO342AAA,extraembryonic component
+454,endothelial cell of umbilical vein male newborn donor ENCDO551FXN,placenta
+455,endothelial cell of umbilical vein newborn,epithelium
+456,epidermal melanocyte,epithelium
+457,epithelial cell of esophagus,esophagus
+458,epithelial cell of prostate,epithelium
+459,epithelial cell of prostate male,epithelium
+460,epithelial cell of proximal tubule,epithelium
+461,esophagus muscularis mucosa tissue female adult 51 years,musculature of body
+462,esophagus muscularis mucosa tissue female adult 53 years,esophagus
+463,esophagus muscularis mucosa tissue male adult 37 years,esophagus
+464,esophagus muscularis mucosa tissue male adult 54 years,esophagus
+465,esophagus squamous epithelium tissue female adult 51 years,epithelium
+466,esophagus squamous epithelium tissue female adult 53 years,epithelium
+467,esophagus squamous epithelium tissue male adult 37 years,esophagus
+468,esophagus squamous epithelium tissue male adult 54 years,epithelium
+469,esophagus tissue female adult 30 years,esophagus
+470,esophagus tissue male adult 34 years,esophagus
+471,excitatory neuron,
+472,eye tissue embryo 56 days and male embryo 76 days,eye
+473,eye tissue female embryo 76 days,eye
+474,femur tissue female embryo 98 days,skeleton
+475,fibroblast of breast female adult 17 years,breast
+476,fibroblast of breast female adult 26 years,breast
+477,fibroblast of dermis,skin of body
+478,fibroblast of dermis female adult,connective tissue
+479,fibroblast of dermis NONE and female adult,skin of body
+480,fibroblast of gingiva,mouth
+481,fibroblast of lung,lung
+482,fibroblast of lung female child 11 years and male adult 45 years donor ENCDO156MSV,lung
+483,fibroblast of lung female child 11 years and male adult 45 years donor ENCDO269AAA,lung
+484,fibroblast of lung male adult 45 years,lung
+485,fibroblast of mammary gland female,connective tissue
+486,fibroblast of peridontal ligament male,mouth
+487,fibroblast of pulmonary artery,vasculature
+488,fibroblast of skin of abdomen male embryo 97 days,connective tissue
+489,fibroblast of skin of back male embryo 97 days,connective tissue
+490,fibroblast of skin of left quadriceps male embryo 97 days,skin of body
+491,fibroblast of skin of right biceps male embryo 97 days,skin of body
+492,fibroblast of skin of right quadriceps male embryo 97 days,skin of body
+493,fibroblast of skin of scalp male embryo 97 days,skin of body
+494,fibroblast of the aortic adventitia female,vasculature
+495,fibroblast of the conjunctiva,eye
+496,fibroblast of upper back skin male embryo 97 days,connective tissue
+497,fibroblast of villous mesenchyme,extraembryonic component
+498,forelimb muscle tissue female embryo 108 days,musculature of body
+499,foreskin fibroblast male newborn donor ENCDO047TBB,skin of body
+500,foreskin fibroblast male newborn donor ENCDO191CQJ,skin of body
+501,foreskin fibroblast male newborn donor ENCDO232AAA,skin of body
+502,foreskin fibroblast male newborn donor ENCDO666YUN,skin of body
+503,foreskin fibroblast male newborn donor ENCDO686OPO,skin of body
+504,foreskin keratinocyte male newborn donor ENCDO047TBB,skin of body
+505,foreskin keratinocyte male newborn donor ENCDO666YUN,skin of body
+506,foreskin keratinocyte male newborn donor ENCDO686OPO,skin of body
+507,foreskin melanocyte male newborn donor ENCDO047TBB,penis
+508,foreskin melanocyte male newborn donor ENCDO666YUN,penis
+509,foreskin melanocyte male newborn donor ENCDO686OPO,penis
+510,frontal cortex tissue female adult 67 years and female adult 80 years,brain
+511,frontal cortex tissue male adult 27 years and male adult 35 years,brain
+512,G401,kidney
+513,gamma-delta T cell female adult 33 years treated with 50 U/mL Interleukin-2 for 16 hours,blood
+514,gamma-delta T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 16 hours; 50 U/mL Interleukin-2 for 16 hours,blood
+515,gastrocnemius medialis tissue female adult 51 years,musculature of body
+516,gastrocnemius medialis tissue female adult 53 years,musculature of body
+517,gastrocnemius medialis tissue male adult 37 years,musculature of body
+518,gastrocnemius medialis tissue male adult 54 years,musculature of body
+519,gastroesophageal sphincter tissue female adult 51 years,musculature of body
+520,gastroesophageal sphincter tissue female adult 53 years,stomach
+521,gastroesophageal sphincter tissue male adult 37 years,musculature of body
+522,gastroesophageal sphincter tissue male adult 54 years,stomach
+523,germinal center tissue,lymphoid tissue
+524,germinal matrix tissue male embryo 20 weeks donor ENCDO026HUZ,brain
+525,germinal matrix tissue male embryo 20 weeks donor ENCDO463PIS,brain
+526,globus pallidus tissue male adult 78 years and male adult 84 years,brain
+527,glomerular endothelial cell,epithelium
+528,glomerular visceral epithelial cell child 3 years,epithelium
+529,GM03348,connective tissue
+530,GM03348 genetically modified using transduction,connective tissue
+531,GM03348 genetically modified using transduction treated with 3 ?g/mL doxycycline for 10 days,connective tissue
+532,GM04503,connective tissue
+533,GM04504,connective tissue
+534,GM06990,bodily fluid
+535,GM08714,bodily fluid
+536,GM10248,blood
+537,GM10266,blood
+538,GM12801,bodily fluid
+539,GM12864,bodily fluid
+540,GM12865,bodily fluid
+541,GM12872,bodily fluid
+542,GM12873,bodily fluid
+543,GM12874,bodily fluid
+544,GM12875,bodily fluid
+545,GM12878,bodily fluid
+546,GM12891,blood
+547,GM12892,blood
+548,GM13976,blood
+549,GM13977,blood
+550,GM18507,lymphoid tissue
+551,GM19238,blood
+552,GM19239,blood
+553,GM19240,blood
+554,GM20000,blood
+555,GM23248,limb
+556,GM23338,skin of body
+557,GM23338 originated from GM23248,skin of body
+558,H1,embryo
+559,H4,epithelium
+560,H54,brain
+561,H7,embryo
+562,H9,embryo
+563,H9 G1 phase genetically modified using stable transfection,embryo
+564,H9 G1b phase genetically modified using stable transfection,embryo
+565,H9 G2 phase genetically modified using stable transfection,embryo
+566,H9 genetically modified using stable transfection,embryo
+567,H9 originated from H9,embryo
+568,H9 S1 phase genetically modified using stable transfection,embryo
+569,HAP-1,bone marrow
+570,HCEC 1CT,large intestine
+571,HCT116,intestine
+572,head of caudate nucleus tissue female adult 77 years,brain
+573,head of caudate nucleus tissue female adult 78 years,brain
+574,head of caudate nucleus tissue female adult 78 years with mild cognitive impairment,brain
+575,head of caudate nucleus tissue female adult 81 years with Alzheimer's disease,brain
+576,head of caudate nucleus tissue female adult 82 years donor ENCDO165PNJ,brain
+577,head of caudate nucleus tissue female adult 82 years donor ENCDO290OPS,brain
+578,head of caudate nucleus tissue female adult 82 years donor ENCDO377QXX,brain
+579,head of caudate nucleus tissue female adult 83 years,brain
+580,head of caudate nucleus tissue female adult 83 years with mild cognitive impairment,brain
+581,head of caudate nucleus tissue female adult 86 years with Cognitive impairment,brain
+582,head of caudate nucleus tissue female adult 87 years,brain
+583,head of caudate nucleus tissue female adult 87 years with Cognitive impairment; Alzheimer's disease,brain
+584,head of caudate nucleus tissue female adult 87 years with mild cognitive impairment,brain
+585,head of caudate nucleus tissue female adult 88 years,brain
+586,head of caudate nucleus tissue female adult 89 years,brain
+587,head of caudate nucleus tissue female adult 89 years with Alzheimer's disease donor ENCDO830KFO,brain
+588,head of caudate nucleus tissue female adult 89 years with Alzheimer's disease donor ENCDO853VGZ,brain
+589,head of caudate nucleus tissue female adult 89 years with mild cognitive impairment,brain
+590,head of caudate nucleus tissue female adult 90 or above years donor ENCDO006DAA,brain
+591,head of caudate nucleus tissue female adult 90 or above years donor ENCDO081AHA,brain
+592,head of caudate nucleus tissue female adult 90 or above years donor ENCDO218FFZ,brain
+593,head of caudate nucleus tissue female adult 90 or above years donor ENCDO980GMJ,brain
+594,head of caudate nucleus tissue female adult 90 or above years with Alzheimer's disease donor ENCDO470GFA,brain
+595,head of caudate nucleus tissue female adult 90 or above years with Alzheimer's disease donor ENCDO473TSU,brain
+596,head of caudate nucleus tissue female adult 90 or above years with Alzheimer's disease donor ENCDO597SRH,brain
+597,head of caudate nucleus tissue female adult 90 or above years with Alzheimer's disease donor ENCDO658JXQ,brain
+598,head of caudate nucleus tissue female adult 90 or above years with Alzheimer's disease donor ENCDO680UUE,brain
+599,head of caudate nucleus tissue female adult 90 or above years with Alzheimer's disease donor ENCDO730UYW,brain
+600,head of caudate nucleus tissue female adult 90 or above years with Cognitive impairment; Alzheimer's disease,brain
+601,head of caudate nucleus tissue female adult 90 or above years with Cognitive impairment donor ENCDO359XWR,brain
+602,head of caudate nucleus tissue female adult 90 or above years with Cognitive impairment donor ENCDO448YMQ,brain
+603,head of caudate nucleus tissue female adult 90 or above years with mild cognitive impairment donor ENCDO033BMB,brain
+604,head of caudate nucleus tissue female adult 90 or above years with mild cognitive impairment donor ENCDO153NUY,brain
+605,head of caudate nucleus tissue female adult 90 or above years with mild cognitive impairment donor ENCDO183VJV,brain
+606,head of caudate nucleus tissue female adult 90 or above years with mild cognitive impairment donor ENCDO204VNL,brain
+607,head of caudate nucleus tissue female adult 90 or above years with mild cognitive impairment donor ENCDO305GYI,brain
+608,head of caudate nucleus tissue female adult 90 or above years with mild cognitive impairment donor ENCDO394ZHU,brain
+609,head of caudate nucleus tissue female adult 90 or above years with mild cognitive impairment donor ENCDO539ZHT,brain
+610,head of caudate nucleus tissue female adult 90 or above years with mild cognitive impairment donor ENCDO557QXE,brain
+611,head of caudate nucleus tissue female adult 90 or above years with mild cognitive impairment donor ENCDO634UMA,brain
+612,head of caudate nucleus tissue female adult 90 or above years with mild cognitive impairment donor ENCDO660TGP,brain
+613,head of caudate nucleus tissue female adult 90 or above years with mild cognitive impairment donor ENCDO672KST,brain
+614,head of caudate nucleus tissue female adult 90 or above years with mild cognitive impairment donor ENCDO746DTM,brain
+615,head of caudate nucleus tissue female adult 90 or above years with mild cognitive impairment donor ENCDO853KFT,brain
+616,head of caudate nucleus tissue female adult 90 or above years with mild cognitive impairment donor ENCDO880FAU,brain
+617,head of caudate nucleus tissue female adult 90 or above years with mild cognitive impairment donor ENCDO915WZE,brain
+618,head of caudate nucleus tissue male adult 71 years,brain
+619,head of caudate nucleus tissue male adult 73 years with Cognitive impairment; Alzheimer's disease,brain
+620,head of caudate nucleus tissue male adult 78 years,brain
+621,head of caudate nucleus tissue male adult 80 years with Cognitive impairment; Alzheimer's disease,brain
+622,head of caudate nucleus tissue male adult 82 years,brain
+623,head of caudate nucleus tissue male adult 83 years,brain
+624,head of caudate nucleus tissue male adult 84 years with Cognitive impairment; Alzheimer's disease,brain
+625,head of caudate nucleus tissue male adult 84 years with mild cognitive impairment,brain
+626,head of caudate nucleus tissue male adult 85 years,brain
+627,head of caudate nucleus tissue male adult 86 years donor ENCDO022VWV,brain
+628,head of caudate nucleus tissue male adult 86 years donor ENCDO666UNK,brain
+629,head of caudate nucleus tissue male adult 87 years donor ENCDO123QRW,brain
+630,head of caudate nucleus tissue male adult 87 years donor ENCDO203ASI,brain
+631,head of caudate nucleus tissue male adult 87 years with Alzheimer's disease,brain
+632,head of caudate nucleus tissue male adult 87 years with Cognitive impairment; Alzheimer's disease,brain
+633,head of caudate nucleus tissue male adult 89 years with mild cognitive impairment,brain
+634,head of caudate nucleus tissue male adult 90 or above years,brain
+635,head of caudate nucleus tissue male adult 90 or above years with mild cognitive impairment donor ENCDO283GDX,brain
+636,head of caudate nucleus tissue male adult 90 or above years with mild cognitive impairment donor ENCDO877NVF,brain
+637,heart left ventricle tissue female adult 46 years,heart
+638,heart left ventricle tissue female adult 51 years,heart
+639,heart left ventricle tissue female adult 53 years,heart
+640,heart left ventricle tissue female adult 56 years,heart
+641,heart left ventricle tissue female adult 59 years,heart
+642,heart left ventricle tissue female embryo 101 days and female embryo 103 days,heart
+643,heart left ventricle tissue female embryo 136 days,heart
+644,heart left ventricle tissue male adult 34 years,heart
+645,heart left ventricle tissue male adult 40 years,heart
+646,heart left ventricle tissue male adult 43 years,heart
+647,heart left ventricle tissue male adult 54 years,heart
+648,heart left ventricle tissue male adult 69 years,heart
+649,heart left ventricle tissue male child 3 years,heart
+650,heart right ventricle tissue female adult 46 years,heart
+651,heart right ventricle tissue female adult 56 years,heart
+652,heart right ventricle tissue female embryo 101 days and female embryo 103 days,heart
+653,heart right ventricle tissue male adult 34 years,heart
+654,heart right ventricle tissue male adult 40 years,heart
+655,heart right ventricle tissue male adult 43 years,heart
+656,heart right ventricle tissue male adult 54 years,heart
+657,heart right ventricle tissue male adult 55 years,heart
+658,heart right ventricle tissue male adult 61 years,heart
+659,heart right ventricle tissue male adult 66 years,heart
+660,heart right ventricle tissue male adult 69 years,heart
+661,heart right ventricle tissue male child 3 years,heart
+662,heart tissue embryo 101 days,heart
+663,heart tissue embryo 59 days and female embryo 76 days,heart
+664,heart tissue embryo 80 days,heart
+665,heart tissue embryo 96 days,heart
+666,heart tissue female embryo 103 days,heart
+667,heart tissue female embryo 105 days,heart
+668,heart tissue female embryo 110 days,heart
+669,heart tissue female embryo 116 days and female embryo 98 days,heart
+670,heart tissue female embryo 117 days,heart
+671,heart tissue female embryo 147 days,heart
+672,heart tissue female embryo 91 days,heart
+673,heart tissue male adult 27 years and male adult 35 years,heart
+674,heart tissue male child 3 years,heart
+675,heart tissue male embryo 105 days,heart
+676,heart tissue male embryo 110 days,heart
+677,heart tissue male embryo 120 days,heart
+678,heart tissue male embryo 72 days and male embryo 76 days,heart
+679,heart tissue male embryo 91 days,heart
+680,heart tissue male embryo 96 days,heart
+681,HEK293,epithelium
+682,HEK293T,epithelium
+683,HeLa-S3,epithelium
+684,HeLa-S3 G1b phase,epithelium
+685,HeLa-S3 treated with interferon alpha for 4 hours,uterus
+686,hematopoietic multipotent progenitor cell donor ENCDO116AAA,blood
+687,hematopoietic multipotent progenitor cell donor ENCDO579CCQ,blood
+688,hematopoietic multipotent progenitor cell donor ENCDO937OUY,blood
+689,hematopoietic multipotent progenitor cell treated with erythropoietin for 20 days; hydrocortisone succinate for 20 days; kit ligand for 20 days; interleukin-3 for 20 days,blood
+690,hematopoietic multipotent progenitor cell treated with interleukin-3 for 11 days; kit ligand for 11 days; hydrocortisone succinate for 11 days; erythropoietin for 11 days,blood
+691,hematopoietic multipotent progenitor cell treated with interleukin-3 for 13 days; kit ligand for 13 days; hydrocortisone succinate for 13 days; erythropoietin for 13 days,blood
+692,hematopoietic multipotent progenitor cell treated with interleukin-3 for 15 days; kit ligand for 15 days; hydrocortisone succinate for 15 days; erythropoietin for 15 days,blood
+693,hematopoietic multipotent progenitor cell treated with interleukin-3 for 17 days; kit ligand for 17 days; hydrocortisone succinate for 17 days; erythropoietin for 17 days,blood
+694,hematopoietic multipotent progenitor cell treated with interleukin-3 for 18 days; kit ligand for 18 days; hydrocortisone succinate for 18 days; erythropoietin for 18 days,blood
+695,hematopoietic multipotent progenitor cell treated with interleukin-3 for 4 days; kit ligand for 4 days; hydrocortisone succinate for 4 days; erythropoietin for 4 days,blood
+696,hematopoietic multipotent progenitor cell treated with interleukin-3 for 6 days; kit ligand for 6 days; hydrocortisone succinate for 6 days; erythropoietin for 6 days,blood
+697,hematopoietic multipotent progenitor cell treated with interleukin-3 for 8 days; kit ligand for 8 days; hydrocortisone succinate for 8 days; erythropoietin for 8 days,blood
+698,hepatic stellate cell female adult 59 years,endocrine gland
+699,hepatocyte,epithelium
+700,hepatocyte originated from H9,epithelium
+701,HepG2,endocrine gland
+702,HFF-Myc originated from foreskin fibroblast,penis
+703,HFFc6,connective tissue
+704,hindlimb muscle tissue male embryo 120 days,musculature of body
+705,HK-2,epithelium
+706,HL-60,bodily fluid
+707,HPDE6-E6E7,pancreas
+708,HS-27A,epithelium
+709,HS-5,bone marrow
+710,HT-29,large intestine
+711,HT1080,epithelium
+712,HTR-8/SVneo,extraembryonic component
+713,HUES48,embryo
+714,HUES6,embryo
+715,HUES64,embryo
+716,HuH-7,epithelium
+717,HuH-7.5,epithelium
+718,IgD-negative memory B cell,bodily fluid
+719,IgD-negative memory B cell originated from IgD-negative memory B cell,bodily fluid
+720,immature natural killer cell donor ENCDO157PKH,bone marrow
+721,immature natural killer cell donor ENCDO187BUH,bone marrow
+722,immature natural killer cell donor ENCDO258PRN,bone marrow
+723,immature natural killer cell donor ENCDO553CCA,bone marrow
+724,immature natural killer cell donor ENCDO836ICQ,bone marrow
+725,immature natural killer cell donor ENCDO922TOC,bone marrow
+726,immature natural killer cell donor ENCDO976NED,bone marrow
+727,IMR-90,lung
+728,inferior parietal cortex tissue male adult 84 years,brain
+729,inflammatory macrophage male adult 21 years and male adult 40 years,
+730,inflammatory macrophage male adult 21 years and male adult 40 years; treated with lipopolysaccharide for 1 hour,
+731,inflammatory macrophage male adult 21 years treated with lipopolysaccharide for 4 hours,
+732,iPS-11a,skin of body
+733,iPS-15b,skin of body
+734,iPS-18a,skin of body
+735,iPS-18c,skin of body
+736,iPS-20b,skin of body
+737,iPS-NIHi11 originated from AG20443,skin of body
+738,iPS-NIHi7 originated from AG08395,skin of body
+739,iPS DF 19.11,skin of body
+740,iPS DF 19.7,penis
+741,iPS DF 4.7,penis
+742,iPS DF 6.9,penis
+743,iris pigment epithelial cell,epithelium
+744,Ishikawa treated with 0.02% dimethyl sulfoxide for 1 hour,uterus
+745,Ishikawa treated with 10 nM 17?-estradiol for 30 minutes,uterus
+746,Ishikawa treated with 600 nM afimoxifene for 30 minutes,uterus
+747,islet precursor cell,pancreas
+748,Jurkat; Clone E6-1,bodily fluid
+749,K562,bodily fluid
+750,K562 G1 phase,blood
+751,K562 G2 phase,blood
+752,K562 treated with 0.05% dimethyl sulfoxide for 72 hours,blood
+753,K562 treated with 1 ?M vorinostat for 72 hours,blood
+754,K562 treated with 500 ?M sodium butyrate for 72 hours,blood
+755,Karpas-422,bodily fluid
+756,KBM-7,bone marrow
+757,keratinocyte female donor ENCDO268AAA,skin of body
+758,keratinocyte female donor ENCDO302AAA,epithelium
+759,kidney capillary endothelial cell female embryo 113 days,epithelium
+760,kidney epithelial cell,epithelium
+761,kidney glomerular epithelial cell male adult 43 years and male adult 62 years,epithelium
+762,kidney tissue embryo 59 days and female embryo 59 days,kidney
+763,kidney tissue embryo 80 days,kidney
+764,kidney tissue female adult 47 years,kidney
+765,kidney tissue female embryo 105 days donor ENCDO718LHH,kidney
+766,kidney tissue female embryo 105 days donor ENCDO863KZW,kidney
+767,kidney tissue female embryo 108 days,kidney
+768,kidney tissue female embryo 113 days,kidney
+769,kidney tissue female embryo 120 days,kidney
+770,kidney tissue female embryo 121 days,kidney
+771,kidney tissue female embryo 76 days and male embryo 76 days,kidney
+772,kidney tissue female embryo 85 days,kidney
+773,kidney tissue male adult 22 years and male adult 27 years and male adult 35 years,kidney
+774,kidney tissue male adult 50 years,kidney
+775,kidney tissue male adult 67 years,kidney
+776,kidney tissue male embryo 105 days,kidney
+777,kidney tissue male embryo 85 days,kidney
+778,kidney tissue male embryo 87 days,kidney
+779,kidney tubule cell female adult 80 years and male adult 62 years,epithelium
+780,kidney tubule cell female adult 80 years treated with 5 ?M cisplatin,epithelium
+781,KMS-11,bone element
+782,KOPT-K1,bodily fluid
+783,L1-S8,bone marrow
+784,L1-S8R,bone marrow
+785,large intestine tissue female embryo 103 days,large intestine
+786,large intestine tissue female embryo 105 days,large intestine
+787,large intestine tissue female embryo 107 days,large intestine
+788,large intestine tissue female embryo 108 days,large intestine
+789,large intestine tissue female embryo 110 days,large intestine
+790,large intestine tissue female embryo 120 days,large intestine
+791,large intestine tissue female embryo 91 days,large intestine
+792,large intestine tissue female embryo 98 days,large intestine
+793,large intestine tissue male embryo 105 days donor ENCDO171HMD,large intestine
+794,large intestine tissue male embryo 105 days donor ENCDO350ZUK,large intestine
+795,large intestine tissue male embryo 108 days,intestine
+796,large intestine tissue male embryo 113 days,large intestine
+797,large intestine tissue male embryo 115 days,large intestine
+798,large intestine tissue male embryo 91 days,large intestine
+799,layer of hippocampus tissue female adult 75 years,brain
+800,layer of hippocampus tissue male adult 73 years,brain
+801,layer of hippocampus tissue male adult 81 years,brain
+802,left cardiac atrium tissue female adult 59 years,heart
+803,left cardiac atrium tissue female embryo 101 days,heart
+804,left colon tissue female adult 46 years,large intestine
+805,left colon tissue female adult 59 years,large intestine
+806,left forelimb tissue male embryo 81 days,skeleton
+807,left hindlimb tissue male embryo 81 days,skeleton
+808,left kidney tissue female embryo 107 days,kidney
+809,left kidney tissue female embryo 110 days,kidney
+810,left kidney tissue female embryo 147 days,kidney
+811,left kidney tissue female embryo 59 days and male embryo 91 days,kidney
+812,left kidney tissue female embryo 87 days,kidney
+813,left kidney tissue female embryo 98 days,kidney
+814,left kidney tissue male embryo 115 days,kidney
+815,left kidney tissue male embryo 87 days,kidney
+816,left kidney tissue male embryo 96 days,kidney
+817,left lobe of liver tissue male adult 45 years,endocrine gland
+818,left lung tissue female child 16 years,lung
+819,left lung tissue female embryo 105 days,lung
+820,left lung tissue female embryo 107 days,lung
+821,left lung tissue female embryo 108 days,lung
+822,left lung tissue female embryo 110 days,lung
+823,left lung tissue female embryo 117 days,lung
+824,left lung tissue female embryo 91 days,lung
+825,left lung tissue female embryo 98 days,lung
+826,left lung tissue male adult 40 years,lung
+827,left lung tissue male embryo 105 days,lung
+828,left lung tissue male embryo 113 days,lung
+829,left lung tissue male embryo 115 days,lung
+830,left lung tissue male embryo 87 days,lung
+831,left lung tissue male embryo 91 days,lung
+832,left lung tissue male embryo 96 days,lung
+833,left renal cortex interstitium tissue male embryo 105 days donor ENCDO171HMD,kidney
+834,left renal cortex interstitium tissue male embryo 105 days donor ENCDO378UAU,kidney
+835,left renal cortex interstitium tissue male embryo 105 days donor ENCDO513BVP,kidney
+836,left renal cortex interstitium tissue male embryo 120 days,kidney
+837,left renal pelvis tissue male embryo 105 days donor ENCDO171HMD,kidney
+838,left renal pelvis tissue male embryo 105 days donor ENCDO378UAU,kidney
+839,left renal pelvis tissue male embryo 105 days donor ENCDO513BVP,kidney
+840,left renal pelvis tissue male embryo 120 days,kidney
+841,left ventricle myocardium inferior tissue male adult 60 years,heart
+842,left ventricle myocardium superior tissue male adult 60 years,heart
+843,LHCN-M2,musculature of body
+844,limb tissue embryo 53 days and embryo 56 days,limb
+845,limb tissue embryo 58 days and embryo 59 days,limb
+846,liver tissue embryo 59 days and embryo 80 days,endocrine gland
+847,liver tissue female adult 25 years,endocrine gland
+848,liver tissue female child 6 years and male adult 32 years,endocrine gland
+849,liver tissue female embryo 101 days and female embryo 113 days,endocrine gland
+850,liver tissue male adult 31 years,endocrine gland
+851,liver tissue male adult 32 years,endocrine gland
+852,liver tissue male adult 78 years,endocrine gland
+853,LNCAP,prostate gland
+854,LNCaP clone FGC,epithelium
+855,LNCaP clone FGC treated with 1 nM 17?-hydroxy-17-methylestra-4;9;11-trien-3-one for 12 hours,epithelium
+856,LNCAP treated with 10 nM 17?-hydroxy-5?-androstan-3-one for 4 hours,prostate gland
+857,Loucy,bodily fluid
+858,LoVo,large intestine
+859,lower leg skin tissue female adult 51 years,skin of body
+860,lower leg skin tissue female adult 53 years,limb
+861,lower leg skin tissue male adult 37 years,skin of body
+862,lower leg skin tissue male adult 54 years,skin of body
+863,lower lobe of left lung tissue female adult 59 years,lung
+864,lower lobe of left lung tissue female adult 61 years,lung
+865,lower lobe of left lung tissue male adult 60 years,lung
+866,lower lobe of right lung tissue male adult 60 years,lung
+867,lung microvascular endothelial cell female donor ENCDO237AAA,epithelium
+868,lung microvascular endothelial cell female donor ENCDO238AAA,epithelium
+869,lung tissue embryo 101 days,lung
+870,lung tissue embryo 112 days,lung
+871,lung tissue embryo 67 days,lung
+872,lung tissue embryo 80 days and male embryo 76 days,lung
+873,lung tissue female adult 30 years,lung
+874,lung tissue female adult 47 years,lung
+875,lung tissue female embryo 108 days,lung
+876,lung tissue female embryo 120 days,lung
+877,lung tissue female embryo 76 days,lung
+878,lung tissue female embryo 85 days,lung
+879,lung tissue female embryo 96 days,lung
+880,lung tissue male adult 27 years and male adult 35 years,lung
+881,lung tissue male child 3 years,lung
+882,lung tissue male embryo 103 days,lung
+883,lung tissue male embryo 108 days,lung
+884,lung tissue male embryo 54 days and male embryo 58 days,lung
+885,lung tissue male embryo 82 days,lung
+886,M059J,brain
+887,mammary epithelial cell female,mammary gland
+888,mammary epithelial cell female adult 18 years,mammary gland
+889,mammary epithelial cell female adult 50 years,epithelium
+890,MCF-7,mammary gland
+891,MCF-7 genetically modified using RNAi,epithelium
+892,MCF-7 originated from MCF-7,epithelium
+893,MCF-7 treated with 100 nM 17?-estradiol for 45 minutes,mammary gland
+894,MCF-7 treated with 100 nM estradiol for 1 hour,epithelium
+895,MCF-7 treated with 10 mM lactate for 24 hours,epithelium
+896,MCF 10A,epithelium
+897,MCF 10A treated with 1 ?M tamoxifen for 24 hours,epithelium
+898,MCF 10A treated with 1 ?M tamoxifen for 6 hours,epithelium
+899,medulla oblongata tissue male adult 78 years and male adult 84 years,brain
+900,mesenchymal cell originated from H1,connective tissue
+901,mesenchymal stem cell female adult and female adult 41 years and female adult 59 years; originated from adipose tissue,connective tissue
+902,mesendoderm originated from H1,embryo
+903,mesenteric fat pad tissue female adult 59 years,adipose tissue
+904,mesodermal cell originated from H7 treated with 5 ng/mL Fibroblast growth factor 2 for 2 days; 6 ng/mL Activin A for 2 days; 10 ng/mL Bone morphogenetic protein 4 for 2 days,embryo
+905,mesodermal cell originated from HUES64,embryo
+906,MG63,bone element
+907,mid-neurogenesis radial glial cells genetically modified using stable transfection originated from H9,ESC derived
+908,midbrain tissue male adult 78 years and male adult 84 years,brain
+909,middle frontal area 46 tissue female adult 75 years,brain
+910,middle frontal area 46 tissue male adult 81 years,brain
+911,middle frontal gyrus tissue male adult 78 years,brain
+912,MM.1S,bodily fluid
+913,mononuclear cell male,blood
+914,mucosa of descending colon tissue female adult 61 years,large intestine
+915,mucosa of descending colon tissue male adult 26 years,large intestine
+916,mucosa of descending colon tissue male adult 40 years,large intestine
+917,mucosa of gallbladder tissue female child 16 years,gallbladder
+918,mucosa of rectum tissue female adult 50 years,intestine
+919,mucosa of rectum tissue female adult 61 years,intestine
+920,mucosa of stomach tissue male adult 59 years,stomach
+921,muscle layer of colon tissue female adult 56 years,intestine
+922,muscle layer of colon tissue female adult 77 years,intestine
+923,muscle layer of duodenum tissue male adult 59 years,intestine
+924,muscle layer of duodenum tissue male adult 73 years,intestine
+925,muscle of arm tissue embryo 101 days,musculature of body
+926,muscle of arm tissue female embryo 105 days,musculature of body
+927,muscle of arm tissue female embryo 115 days,musculature of body
+928,muscle of arm tissue female embryo 120 days,musculature of body
+929,muscle of arm tissue female embryo 85 days,musculature of body
+930,muscle of arm tissue female embryo 98 days,musculature of body
+931,muscle of arm tissue male embryo 101 days,musculature of body
+932,muscle of arm tissue male embryo 104 days,musculature of body
+933,muscle of arm tissue male embryo 105 days,musculature of body
+934,muscle of arm tissue male embryo 113 days,musculature of body
+935,muscle of arm tissue male embryo 115 days,musculature of body
+936,muscle of arm tissue male embryo 120 days,musculature of body
+937,muscle of arm tissue male embryo 127 days,musculature of body
+938,muscle of arm tissue male embryo 96 days donor ENCDO220PYT,musculature of body
+939,muscle of arm tissue male embryo 96 days donor ENCDO817EKT,musculature of body
+940,muscle of arm tissue male embryo 97 days donor ENCDO576LXR,musculature of body
+941,muscle of arm tissue male embryo 97 days donor ENCDO597UXW,musculature of body
+942,muscle of back tissue female embryo 105 days donor ENCDO766MZV,musculature of body
+943,muscle of back tissue female embryo 105 days donor ENCDO863KZW,musculature of body
+944,muscle of back tissue female embryo 113 days,musculature of body
+945,muscle of back tissue female embryo 115 days,musculature of body
+946,muscle of back tissue female embryo 85 days,musculature of body
+947,muscle of back tissue female embryo 98 days,musculature of body
+948,muscle of back tissue male embryo 101 days,musculature of body
+949,muscle of back tissue male embryo 104 days,musculature of body
+950,muscle of back tissue male embryo 105 days,musculature of body
+951,muscle of back tissue male embryo 108 days,musculature of body
+952,muscle of back tissue male embryo 127 days,musculature of body
+953,muscle of back tissue male embryo 91 days,musculature of body
+954,muscle of back tissue male embryo 96 days donor ENCDO220PYT,musculature of body
+955,muscle of back tissue male embryo 96 days donor ENCDO817EKT,musculature of body
+956,muscle of back tissue male embryo 97 days,musculature of body
+957,muscle of leg tissue female embryo 105 days,musculature of body
+958,muscle of leg tissue female embryo 110 days,musculature of body
+959,muscle of leg tissue female embryo 113 days,musculature of body
+960,muscle of leg tissue female embryo 115 days,musculature of body
+961,muscle of leg tissue female embryo 85 days,musculature of body
+962,muscle of leg tissue male embryo 101 days,musculature of body
+963,muscle of leg tissue male embryo 104 days,musculature of body
+964,muscle of leg tissue male embryo 105 days,musculature of body
+965,muscle of leg tissue male embryo 115 days,musculature of body
+966,muscle of leg tissue male embryo 127 days,musculature of body
+967,muscle of leg tissue male embryo 96 days donor ENCDO220PYT,musculature of body
+968,muscle of leg tissue male embryo 96 days donor ENCDO817EKT,musculature of body
+969,muscle of leg tissue male embryo 97 days donor ENCDO576LXR,musculature of body
+970,muscle of leg tissue male embryo 97 days donor ENCDO597UXW,musculature of body
+971,muscle of trunk tissue female embryo 113 days,musculature of body
+972,muscle of trunk tissue female embryo 115 days,musculature of body
+973,muscle of trunk tissue female embryo 120 days,musculature of body
+974,muscle of trunk tissue female embryo 121 days,musculature of body
+975,myocyte originated from LHCN-M2,musculature of body
+976,myoepithelial cell of mammary gland female adult 33 years,mammary gland
+977,myoepithelial cell of mammary gland female adult 36 years,mammary gland
+978,myotube originated from skeletal muscle myoblast,musculature of body
+979,naive B cell donor ENCDO270AAA,blood
+980,naive B cell donor ENCDO553CCA,bodily fluid
+981,naive B cell donor ENCDO836ICQ,bodily fluid
+982,naive B cell originated from naive B cell donor ENCDO187BUH,bodily fluid
+983,naive B cell originated from naive B cell donor ENCDO922TOC,bodily fluid
+984,naive B cell originated from naive B cell donor ENCDO976NED,bodily fluid
+985,naive thymus-derived CD4-positive; alpha-beta T cell donor ENCDO173AAA,blood
+986,naive thymus-derived CD4-positive; alpha-beta T cell donor ENCDO194EHQ,bodily fluid
+987,naive thymus-derived CD4-positive; alpha-beta T cell donor ENCDO258PRN,bodily fluid
+988,naive thymus-derived CD4-positive; alpha-beta T cell donor ENCDO553CCA,bodily fluid
+989,naive thymus-derived CD4-positive; alpha-beta T cell donor ENCDO688UWB,bodily fluid
+990,naive thymus-derived CD4-positive; alpha-beta T cell donor ENCDO836ICQ,bodily fluid
+991,naive thymus-derived CD4-positive; alpha-beta T cell donor ENCDO922CEJ,bodily fluid
+992,naive thymus-derived CD4-positive; alpha-beta T cell female adult 35 years,blood
+993,naive thymus-derived CD4-positive; alpha-beta T cell male adult 26 years,blood
+994,naive thymus-derived CD4-positive; alpha-beta T cell originated from naive thymus-derived CD4-positive; alpha-beta T cell donor ENCDO157PKH,bodily fluid
+995,naive thymus-derived CD4-positive; alpha-beta T cell originated from naive thymus-derived CD4-positive; alpha-beta T cell donor ENCDO187BUH,bodily fluid
+996,naive thymus-derived CD4-positive; alpha-beta T cell originated from naive thymus-derived CD4-positive; alpha-beta T cell donor ENCDO922TOC,bodily fluid
+997,naive thymus-derived CD4-positive; alpha-beta T cell originated from naive thymus-derived CD4-positive; alpha-beta T cell donor ENCDO976NED,bodily fluid
+998,naive thymus-derived CD8-positive; alpha-beta T cell donor ENCDO258PRN,bodily fluid
+999,naive thymus-derived CD8-positive; alpha-beta T cell donor ENCDO553CCA,bodily fluid
+1000,naive thymus-derived CD8-positive; alpha-beta T cell donor ENCDO836ICQ,bodily fluid
+1001,naive thymus-derived CD8-positive; alpha-beta T cell originated from naive thymus-derived CD8-positive; alpha-beta T cell donor ENCDO187BUH,bodily fluid
+1002,naive thymus-derived CD8-positive; alpha-beta T cell originated from naive thymus-derived CD8-positive; alpha-beta T cell donor ENCDO922TOC,bodily fluid
+1003,naive thymus-derived CD8-positive; alpha-beta T cell originated from naive thymus-derived CD8-positive; alpha-beta T cell donor ENCDO976NED,bodily fluid
+1004,NAMALWA,blood
+1005,NAMALWA treated with Sendai virus for 2 hours,blood
+1006,natural killer cell female adult 34 years,blood
+1007,natural killer cell male adult 21 years,blood
+1008,natural killer cell male adult 37 years,bodily fluid
+1009,NB4,bone marrow
+1010,NCI-H226,lung
+1011,NCI-H460,epithelium
+1012,NCI-H929,bone element
+1013,nephron organoid female embryo 5 days differentiated 35 days,kidney
+1014,nephron organoid female embryo 5 days differentiated 49 days,kidney
+1015,nephron organoid female embryo 5 days originated from H9 differentiated 21 days,kidney
+1016,neural cell originated from H1,ESC derived
+1017,neural crest cell,embryo
+1018,neural progenitor cell originated from H9,ESC derived
+1019,neuroepithelial stem cell genetically modified using stable transfection originated from H9,embryo
+1020,neuron originated from H9,ESC derived
+1021,neuronal stem cell originated from H1,embryo
+1022,neuronal stem cell originated from H9,embryo
+1023,neurosphere embryo 15 weeks originated from ganglionic eminence donor ENCDO280TXL,ESC derived
+1024,neurosphere embryo 15 weeks originated from ganglionic eminence donor ENCDO594MAO,ESC derived
+1025,neurosphere female embryo 17 weeks originated from cortex,ESC derived
+1026,neurosphere female embryo 17 weeks originated from ganglionic eminence,ESC derived
+1027,neutrophil,bodily fluid
+1028,neutrophil male,bodily fluid
+1029,non-pigmented ciliary epithelial cell,epithelium
+1030,NT2/D1,gonad
+1031,occipital lobe tissue male adult 84 years,brain
+1032,OCI-LY1,bone marrow
+1033,OCI-LY3,lymph node
+1034,OCI-LY7,blood
+1035,omental fat pad tissue female adult 51 years,adipose tissue
+1036,omental fat pad tissue female adult 53 years,adipose tissue
+1037,omental fat pad tissue male adult 37 years,adipose tissue
+1038,omental fat pad tissue male adult 54 years,adipose tissue
+1039,osteoblast,connective tissue
+1040,ovary tissue female adult 30 years,ovary
+1041,ovary tissue female adult 41 years,gonad
+1042,ovary tissue female adult 46 years,gonad
+1043,ovary tissue female adult 47 years,gonad
+1044,ovary tissue female adult 51 years,ovary
+1045,ovary tissue female adult 53 years,gonad
+1046,ovary tissue female adult 59 years,gonad
+1047,ovary tissue female adult 61 years,gonad
+1048,ovary tissue female embryo,gonad
+1049,Panc1,pancreas
+1050,pancreas tissue female adult 30 years,pancreas
+1051,pancreas tissue female adult 41 years,pancreas
+1052,pancreas tissue female adult 47 years,pancreas
+1053,pancreas tissue female adult 59 years,pancreas
+1054,pancreas tissue female adult 61 years,pancreas
+1055,pancreas tissue female child 16 years,pancreas
+1056,pancreas tissue male adult 26 years,pancreas
+1057,pancreas tissue male adult 34 years,pancreas
+1058,pancreas tissue male adult 54 years and male adult 60 years,pancreas
+1059,parathyroid adenoma tissue male adult 62 years,paraythroid gland
+1060,parathyroid adenoma tissue male adult 65 years,paraythroid gland
+1061,PC-3,prostate gland
+1062,PC-9,lung
+1063,peripheral blood mononuclear cell female adult 28 years,bodily fluid
+1064,peripheral blood mononuclear cell male adult 27 years,bodily fluid
+1065,peripheral blood mononuclear cell male adult 32 years,bodily fluid
+1066,peripheral blood mononuclear cell male adult 39 years,bodily fluid
+1067,Peyer's patch tissue female adult 51 years,intestine
+1068,Peyer's patch tissue female adult 53 years,intestine
+1069,Peyer's patch tissue male adult 37 years,intestine
+1070,Peyer's patch tissue male adult 54 years,intestine
+1071,placenta tissue embryo,extraembryonic component
+1072,placenta tissue embryo 102 days,extraembryonic component
+1073,placenta tissue embryo 16 weeks,extraembryonic component
+1074,placenta tissue embryo 53 days,extraembryonic component
+1075,placenta tissue embryo 56 days and embryo 59 days,extraembryonic component
+1076,placenta tissue female embryo 101 days and male embryo 105 days,extraembryonic component
+1077,placenta tissue female embryo 105 days,extraembryonic component
+1078,placenta tissue female embryo 108 days,extraembryonic component
+1079,placenta tissue female embryo 113 days,placenta
+1080,placenta tissue female embryo 85 days,extraembryonic component
+1081,placenta tissue female embryo donor ENCDO353NXC,extraembryonic component
+1082,placenta tissue female embryo donor ENCDO412HAL,extraembryonic component
+1083,placenta tissue female embryo donor ENCDO496RNL,extraembryonic component
+1084,placenta tissue female embryo donor ENCDO818SNP,extraembryonic component
+1085,placenta tissue female embryo donor ENCDO952QED,extraembryonic component
+1086,placenta tissue male embryo 16 weeks,extraembryonic component
+1087,placenta tissue male embryo 85 days,extraembryonic component
+1088,placenta tissue male embryo 91 days,extraembryonic component
+1089,placenta tissue male embryo donor ENCDO023YQQ,extraembryonic component
+1090,placenta tissue male embryo donor ENCDO225QCT,extraembryonic component
+1091,placenta tissue male embryo donor ENCDO384FEJ,extraembryonic component
+1092,placenta tissue male embryo donor ENCDO442GWY,extraembryonic component
+1093,placenta tissue male embryo donor ENCDO824PZQ,extraembryonic component
+1094,placenta tissue male embryo donor ENCDO868MLX,extraembryonic component
+1095,placental basal plate tissue female embryo 40 weeks,extraembryonic component
+1096,placental basal plate tissue male embryo 38 weeks,extraembryonic component
+1097,pons tissue male adult 78 years,brain
+1098,posterior cingulate gyrus tissue female adult 75 years,brain
+1099,posterior cingulate gyrus tissue female adult 77 years,brain
+1100,posterior cingulate gyrus tissue female adult 82 years donor ENCDO165PNJ,brain
+1101,posterior cingulate gyrus tissue female adult 82 years donor ENCDO290OPS,brain
+1102,posterior cingulate gyrus tissue female adult 84 years,brain
+1103,posterior cingulate gyrus tissue female adult 85 years,brain
+1104,posterior cingulate gyrus tissue female adult 86 years with Alzheimer's disease,brain
+1105,posterior cingulate gyrus tissue female adult 87 years,brain
+1106,posterior cingulate gyrus tissue female adult 87 years with Cognitive impairment; Alzheimer's disease,brain
+1107,posterior cingulate gyrus tissue female adult 88 years,brain
+1108,posterior cingulate gyrus tissue female adult 88 years with Alzheimer's disease,brain
+1109,posterior cingulate gyrus tissue female adult 89 years,brain
+1110,posterior cingulate gyrus tissue female adult 89 years with Alzheimer's disease,brain
+1111,posterior cingulate gyrus tissue female adult 90 or above years donor ENCDO006DAA,brain
+1112,posterior cingulate gyrus tissue female adult 90 or above years donor ENCDO218FFZ,brain
+1113,posterior cingulate gyrus tissue female adult 90 or above years donor ENCDO242JQO,brain
+1114,posterior cingulate gyrus tissue female adult 90 or above years donor ENCDO250PFZ,brain
+1115,posterior cingulate gyrus tissue female adult 90 or above years donor ENCDO921LXT,brain
+1116,posterior cingulate gyrus tissue female adult 90 or above years donor ENCDO948PMW,brain
+1117,posterior cingulate gyrus tissue female adult 90 or above years with Alzheimer's disease donor ENCDO020BIL,brain
+1118,posterior cingulate gyrus tissue female adult 90 or above years with Alzheimer's disease donor ENCDO150EBZ,brain
+1119,posterior cingulate gyrus tissue female adult 90 or above years with Alzheimer's disease donor ENCDO258GJF,brain
+1120,posterior cingulate gyrus tissue female adult 90 or above years with Alzheimer's disease donor ENCDO473TSU,brain
+1121,posterior cingulate gyrus tissue female adult 90 or above years with Alzheimer's disease donor ENCDO658JXQ,brain
+1122,posterior cingulate gyrus tissue female adult 90 or above years with Alzheimer's disease donor ENCDO680UUE,brain
+1123,posterior cingulate gyrus tissue female adult 90 or above years with mild cognitive impairment donor ENCDO170MSG,brain
+1124,posterior cingulate gyrus tissue female adult 90 or above years with mild cognitive impairment donor ENCDO204VNL,brain
+1125,posterior cingulate gyrus tissue female adult 90 or above years with mild cognitive impairment donor ENCDO343SFL,brain
+1126,posterior cingulate gyrus tissue female adult 90 or above years with mild cognitive impairment donor ENCDO394ZHU,brain
+1127,posterior cingulate gyrus tissue female adult 90 or above years with mild cognitive impairment donor ENCDO471EKG,brain
+1128,posterior cingulate gyrus tissue female adult 90 or above years with mild cognitive impairment donor ENCDO672KST,brain
+1129,posterior cingulate gyrus tissue female adult 90 or above years with mild cognitive impairment donor ENCDO893GME,brain
+1130,posterior cingulate gyrus tissue female adult 90 or above years with mild cognitive impairment donor ENCDO915WZE,brain
+1131,posterior cingulate gyrus tissue male adult 73 years with Cognitive impairment; Alzheimer's disease,brain
+1132,posterior cingulate gyrus tissue male adult 78 years,brain
+1133,posterior cingulate gyrus tissue male adult 80 years with Cognitive impairment; Alzheimer's disease,brain
+1134,posterior cingulate gyrus tissue male adult 82 years,brain
+1135,posterior cingulate gyrus tissue male adult 83 years donor ENCDO592ZWW,brain
+1136,posterior cingulate gyrus tissue male adult 83 years donor ENCDO736YJH,brain
+1137,posterior cingulate gyrus tissue male adult 90 or above years with Alzheimer's disease donor ENCDO197QVG,brain
+1138,posterior cingulate gyrus tissue male adult 90 or above years with Alzheimer's disease donor ENCDO921RVK,brain
+1139,posterior vena cava tissue female adult 47 years,blood vessel
+1140,prostate gland tissue male adult 37 years,prostate gland
+1141,prostate gland tissue male adult 54 years,prostate gland
+1142,psoas muscle tissue female adult 30 years,musculature of body
+1143,psoas muscle tissue female adult 59 years,musculature of body
+1144,psoas muscle tissue female adult 61 years,musculature of body
+1145,psoas muscle tissue female child 16 years,musculature of body
+1146,psoas muscle tissue male adult 27 years and male adult 35 years,musculature of body
+1147,psoas muscle tissue male adult 34 years,musculature of body
+1148,psoas muscle tissue male child 3 years,musculature of body
+1149,pulmonary artery endothelial cell female,epithelium
+1150,putamen tissue male adult 78 years,brain
+1151,radial glial cell genetically modified using stable transfection originated from H9,embryo
+1152,RCC,kidney
+1153,RCC 7860,epithelium
+1154,rectal smooth muscle tissue tissue female adult 50 years,intestine
+1155,regulatory T cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 16 hours; 50 U/mL Interleukin-2 for 16 hours,blood
+1156,regulatory T cell female adult 35 years,blood
+1157,regulatory T cell male adult 24 years,blood
+1158,regulatory T cell male adult 28 years,blood
+1159,regulatory T cell male adult 56 years,blood
+1160,regulatory T cell originated from blood cell,bodily fluid
+1161,renal cortex interstitium tissue female embryo 103 days,kidney
+1162,renal cortex interstitium tissue female embryo 120 days,kidney
+1163,renal cortex interstitium tissue female embryo 89 days,kidney
+1164,renal cortex interstitium tissue female embryo 96 days donor ENCDO613NXA,kidney
+1165,renal cortex interstitium tissue female embryo 96 days donor ENCDO870OBN,kidney
+1166,renal cortex interstitium tissue male embryo 108 days donor ENCDO014CNM,kidney
+1167,renal cortex interstitium tissue male embryo 108 days donor ENCDO132ASK,kidney
+1168,renal cortex interstitium tissue male embryo 113 days,kidney
+1169,renal cortex interstitium tissue male embryo 127 days,kidney
+1170,renal cortex interstitium tissue male embryo 91 days,kidney
+1171,renal cortex interstitium tissue male embryo 97 days,kidney
+1172,renal cortical epithelial cell,epithelium
+1173,renal pelvis tissue female embryo 103 days,kidney
+1174,renal pelvis tissue female embryo 105 days,kidney
+1175,renal pelvis tissue female embryo 89 days,kidney
+1176,renal pelvis tissue female embryo 96 days donor ENCDO613NXA,kidney
+1177,renal pelvis tissue female embryo 96 days donor ENCDO870OBN,kidney
+1178,renal pelvis tissue male embryo 108 days,kidney
+1179,renal pelvis tissue male embryo 113 days,kidney
+1180,renal pelvis tissue male embryo 127 days,kidney
+1181,renal pelvis tissue male embryo 91 days,kidney
+1182,renal pelvis tissue male embryo 97 days,kidney
+1183,retina tissue embryo 125 days and male embryo 103 days,eye
+1184,retina tissue embryo 74 days and embryo 85 days,eye
+1185,retina tissue female embryo 89 days,eye
+1186,retinal pigment epithelial cell,eye
+1187,right atrium auricular region tissue female adult 51 years,heart
+1188,right atrium auricular region tissue female adult 53 years,heart
+1189,right cardiac atrium tissue female adult 46 years,heart
+1190,right cardiac atrium tissue female adult 59 years,heart
+1191,right cardiac atrium tissue male adult 34 years,heart
+1192,right cardiac atrium tissue male adult 40 years,heart
+1193,right cardiac atrium tissue male adult 60 years,heart
+1194,right forelimb tissue male embryo 81 days,skeleton
+1195,right hindlimb tissue male embryo 81 days,skeleton
+1196,right kidney tissue female embryo 107 days,kidney
+1197,right kidney tissue female embryo 117 days,kidney
+1198,right kidney tissue female embryo 147 days,kidney
+1199,right kidney tissue female embryo 87 days,kidney
+1200,right kidney tissue female embryo 98 days,kidney
+1201,right kidney tissue male embryo 108 days,kidney
+1202,right kidney tissue male embryo 115 days,kidney
+1203,right kidney tissue male embryo 87 days,kidney
+1204,right kidney tissue male embryo 91 days,kidney
+1205,right kidney tissue male embryo 96 days,kidney
+1206,right lobe of liver tissue female adult 41 years,endocrine gland
+1207,right lobe of liver tissue female adult 47 years,endocrine gland
+1208,right lobe of liver tissue female adult 53 years,endocrine gland
+1209,right lobe of liver tissue female child 16 years,endocrine gland
+1210,right lobe of liver tissue male adult 45 years,endocrine gland
+1211,right lung tissue female embryo 105 days,lung
+1212,right lung tissue female embryo 107 days,lung
+1213,right lung tissue female embryo 108 days,lung
+1214,right lung tissue female embryo 110 days,lung
+1215,right lung tissue female embryo 117 days,lung
+1216,right lung tissue female embryo 91 days,lung
+1217,right lung tissue female embryo 98 days,lung
+1218,right lung tissue male embryo 105 days,lung
+1219,right lung tissue male embryo 115 days,lung
+1220,right lung tissue male embryo 87 days,lung
+1221,right lung tissue male embryo 96 days,lung
+1222,right renal cortex interstitium tissue male embryo 105 days donor ENCDO378UAU,kidney
+1223,right renal cortex interstitium tissue male embryo 105 days donor ENCDO513BVP,kidney
+1224,right renal cortex interstitium tissue male embryo 120 days,kidney
+1225,right renal pelvis tissue male embryo 105 days donor ENCDO171HMD,kidney
+1226,right renal pelvis tissue male embryo 105 days donor ENCDO378UAU,kidney
+1227,right renal pelvis tissue male embryo 105 days donor ENCDO513BVP,kidney
+1228,right renal pelvis tissue male embryo 120 days,kidney
+1229,Right ventricle myocardium inferior tissue male adult 60 years,heart
+1230,Right ventricle myocardium superior tissue male adult 60 years,heart
+1231,RKO,large intestine
+1232,RPMI7951,epithelium
+1233,RPMI8226,blood
+1234,RWPE1,epithelium
+1235,RWPE2,epithelium
+1236,sciatic nerve tissue female adult 41 years,nerve
+1237,sigmoid colon tissue female adult 51 years,intestine
+1238,sigmoid colon tissue female adult 53 years,intestine
+1239,sigmoid colon tissue male adult 34 years,intestine
+1240,sigmoid colon tissue male adult 37 years,intestine
+1241,sigmoid colon tissue male adult 54 years,intestine
+1242,sigmoid colon tissue male child 3 years,colon
+1243,SJCRH30,connective tissue
+1244,SJCRH30 originated from SJCRH30,connective tissue
+1245,SJSA1,bone element
+1246,SJSA1 originated from SJSA1,bone element
+1247,SK-MEL-5,epithelium
+1248,SK-N-DZ,brain
+1249,SK-N-DZ treated with dimethyl sulfoxide for 72 hours,brain
+1250,SK-N-MC,brain
+1251,SK-N-SH,brain
+1252,SK-N-SH treated with 6 ?M all-trans-retinoic acid for 48 hours,brain
+1253,skeletal muscle cell,musculature of body
+1254,skeletal muscle myoblast,musculature of body
+1255,skeletal muscle myoblast male adult 22 years,musculature of body
+1256,skeletal muscle satellite cell female adult originated from mesodermal cell,musculature of body
+1257,skeletal muscle tissue tissue,musculature of body
+1258,skeletal muscle tissue tissue female adult 72 years,musculature of body
+1259,skeletal muscle tissue tissue male adult 54 years,musculature of body
+1260,skin epidermis tissue female adult 48 years,skin of body
+1261,skin epidermis tissue female adult 48 years with basal cell carcinoma,skin of body
+1262,skin epidermis tissue female adult 64 years,skin of body
+1263,skin epidermis tissue female adult 64 years with squamous cell carcinoma,skin of body
+1264,skin epidermis tissue female adult 66 years,skin of body
+1265,skin epidermis tissue female adult 71 years,skin of body
+1266,skin epidermis tissue female adult 71 years with squamous cell carcinoma,skin of body
+1267,skin epidermis tissue female adult 80 years,skin of body
+1268,skin epidermis tissue female adult 80 years with squamous cell carcinoma,skin of body
+1269,skin epidermis tissue male adult 58 years,skin of body
+1270,skin epidermis tissue male adult 58 years with basal cell carcinoma,skin of body
+1271,skin epidermis tissue male adult 65 years,skin of body
+1272,skin epidermis tissue male adult 65 years with basal cell carcinoma,skin of body
+1273,skin epidermis tissue male adult 67 years,skin of body
+1274,skin epidermis tissue male adult 67 years with basal cell carcinoma,skin of body
+1275,skin epidermis tissue male adult 75 years,skin of body
+1276,skin epidermis tissue male adult 75 years with squamous cell carcinoma,skin of body
+1277,skin epidermis tissue male adult 77 years,skin of body
+1278,skin epidermis tissue male adult 77 years with basal cell carcinoma,skin of body
+1279,skin epidermis tissue male adult 78 years,skin of body
+1280,skin epidermis tissue male adult 78 years with squamous cell carcinoma,skin of body
+1281,skin epidermis tissue male adult 84 years with squamous cell carcinoma,skin of body
+1282,skin of body tissue female embryo 82 days,skin of body
+1283,small intestine tissue female adult 30 years,intestine
+1284,small intestine tissue female embryo 105 days,intestine
+1285,small intestine tissue female embryo 107 days,intestine
+1286,small intestine tissue female embryo 108 days,intestine
+1287,small intestine tissue female embryo 110 days,intestine
+1288,small intestine tissue female embryo 120 days,intestine
+1289,small intestine tissue female embryo 91 days,intestine
+1290,small intestine tissue female embryo 98 days,intestine
+1291,small intestine tissue male adult 34 years,intestine
+1292,small intestine tissue male child 3 years,intestine
+1293,small intestine tissue male embryo 105 days,intestine
+1294,small intestine tissue male embryo 108 days,intestine
+1295,small intestine tissue male embryo 115 days,intestine
+1296,small intestine tissue male embryo 87 days,intestine
+1297,small intestine tissue male embryo 91 days,intestine
+1298,smooth muscle cell of the brain vasculature female,vasculature
+1299,smooth muscle cell originated from H9,musculature of body
+1300,spinal cord tissue female embryo 108 days,spinal cord
+1301,spinal cord tissue female embryo 113 days,spinal cord
+1302,spinal cord tissue female embryo 59 days and male embryo 72 days,spinal cord
+1303,spinal cord tissue female embryo 87 days,spinal cord
+1304,spinal cord tissue female embryo 89 days,spinal cord
+1305,spinal cord tissue male embryo 105 days,spinal cord
+1306,spinal cord tissue male embryo 96 days,spinal cord
+1307,spleen tissue embryo 112 days,spleen
+1308,spleen tissue female adult 20 years and female adult 30 years,immune organ
+1309,spleen tissue female adult 30 years,immune organ
+1310,spleen tissue female adult 41 years,immune organ
+1311,spleen tissue female adult 51 years,spleen
+1312,spleen tissue female adult 53 years,spleen
+1313,spleen tissue female adult 59 years,spleen
+1314,spleen tissue female adult 61 years,spleen
+1315,spleen tissue male adult 26 years,immune organ
+1316,spleen tissue male adult 34 years,spleen
+1317,spleen tissue male adult 37 years,spleen
+1318,spleen tissue male adult 54 years,spleen
+1319,spleen tissue male child 3 years,immune organ
+1320,stomach smooth muscle tissue female adult 84 years,musculature of body
+1321,stomach smooth muscle tissue male adult 59 years,musculature of body
+1322,stomach tissue embryo 101 days,stomach
+1323,stomach tissue female adult 30 years,stomach
+1324,stomach tissue female adult 51 years,stomach
+1325,stomach tissue female adult 53 years,stomach
+1326,stomach tissue female embryo,stomach
+1327,stomach tissue female embryo 105 days donor ENCDO766MZV,stomach
+1328,stomach tissue female embryo 105 days donor ENCDO863KZW,stomach
+1329,stomach tissue female embryo 107 days,stomach
+1330,stomach tissue female embryo 108 days,stomach
+1331,stomach tissue female embryo 121 days,stomach
+1332,stomach tissue female embryo 147 days,stomach
+1333,stomach tissue female embryo 96 days donor ENCDO188ZLA,stomach
+1334,stomach tissue female embryo 96 days donor ENCDO613NXA,stomach
+1335,stomach tissue female embryo 96 days donor ENCDO870OBN,stomach
+1336,stomach tissue female embryo 98 days,stomach
+1337,stomach tissue male adult 34 years,stomach
+1338,stomach tissue male adult 37 years,stomach
+1339,stomach tissue male adult 54 years,stomach
+1340,stomach tissue male child 3 years,stomach
+1341,stomach tissue male embryo 108 days,stomach
+1342,stomach tissue male embryo 127 days,stomach
+1343,stomach tissue male embryo 58 days and male embryo 76 days,stomach
+1344,stomach tissue male embryo 91 days,stomach
+1345,stromal cell of bone marrow male,bone marrow
+1346,SU-DHL-6,blood
+1347,subcutaneous abdominal adipose tissue tissue nuclear fraction female adult 25 years,adipose tissue
+1348,subcutaneous abdominal adipose tissue tissue nuclear fraction female adult 41 years,adipose tissue
+1349,subcutaneous abdominal adipose tissue tissue nuclear fraction female adult 49 years,adipose tissue
+1350,subcutaneous abdominal adipose tissue tissue nuclear fraction female adult 59 years,adipose tissue
+1351,subcutaneous abdominal adipose tissue tissue nuclear fraction female adult 81 years,adipose tissue
+1352,subcutaneous adipose tissue tissue female adult 53 years,adipose tissue
+1353,substantia nigra tissue female adult 75 years,brain
+1354,substantia nigra tissue male adult 81 years,brain
+1355,superior temporal gyrus tissue male adult 84 years,brain
+1356,suppressor macrophage male adult 21 years and male adult 24 years,
+1357,suppressor macrophage male adult 21 years and male adult 24 years and male adult 40 years; treated with lipopolysaccharide for 1 hour,
+1358,suppressor macrophage male adult 21 years and male adult 40 years,
+1359,suppressor macrophage male adult 21 years treated with lipopolysaccharide for 4 hours,
+1360,suprapubic skin tissue female adult 51 years,skin of body
+1361,suprapubic skin tissue female adult 53 years,skin of body
+1362,suprapubic skin tissue male adult 37 years,skin of body
+1363,suprapubic skin tissue male adult 54 years,skin of body
+1364,SW480,large intestine
+1365,T-cell,bodily fluid
+1366,T-cell female adult 18 years,blood
+1367,T-cell female adult 19 years,blood
+1368,T-cell female adult 22 years,blood
+1369,T-cell female adult 23 years,blood
+1370,T-cell female adult 24 years,blood
+1371,T-cell female adult 25 years,blood
+1372,T-cell female adult 28 years,blood
+1373,T-cell female adult 31 years,blood
+1374,T-cell female adult 32 years donor ENCDO473DQU,blood
+1375,T-cell female adult 32 years donor ENCDO808WEZ,blood
+1376,T-cell female adult 33 years donor ENCDO188AUM,blood
+1377,T-cell female adult 33 years donor ENCDO204VTZ,blood
+1378,T-cell female adult 33 years donor ENCDO299FMV,blood
+1379,T-cell female adult 35 years,blood
+1380,T-cell female adult 40 years,blood
+1381,T-cell female adult 43 years,blood
+1382,T-cell female adult 53 years,blood
+1383,T-cell male adult 19 years donor ENCDO654TNZ,blood
+1384,T-cell male adult 19 years donor ENCDO737NEB,blood
+1385,T-cell male adult 21 years donor ENCDO190HXC,blood
+1386,T-cell male adult 21 years donor ENCDO394DKX,blood
+1387,T-cell male adult 21 years donor ENCDO865QXP,blood
+1388,T-cell male adult 21 years treated with 7.5 ?g/kg G-CSF for 4 days,blood
+1389,T-cell male adult 24 years donor ENCDO786GVO,blood
+1390,T-cell male adult 24 years donor ENCDO937YKH,blood
+1391,T-cell male adult 25 years donor ENCDO240EBF,blood
+1392,T-cell male adult 25 years donor ENCDO637QAZ,blood
+1393,T-cell male adult 26 years donor ENCDO769UME,blood
+1394,T-cell male adult 26 years donor ENCDO838UOH,blood
+1395,T-cell male adult 27 years,blood
+1396,T-cell male adult 28 years donor ENCDO000TPT,blood
+1397,T-cell male adult 28 years donor ENCDO249TXE,blood
+1398,T-cell male adult 28 years donor ENCDO256UFN,blood
+1399,T-cell male adult 28 years donor ENCDO648MMV,blood
+1400,T-cell male adult 30 years donor ENCDO091HDH,blood
+1401,T-cell male adult 30 years donor ENCDO656FVT,blood
+1402,T-cell male adult 33 years,blood
+1403,T-cell male adult 34 years donor ENCDO348MRX,blood
+1404,T-cell male adult 34 years donor ENCDO496TPO,blood
+1405,T-cell male adult 34 years donor ENCDO712ENO,blood
+1406,T-cell male adult 36 years donor ENCDO441UHQ,blood
+1407,T-cell male adult 36 years donor ENCDO462FPT,blood
+1408,T-cell male adult 37 years donor ENCDO028NGF,bodily fluid
+1409,T-cell male adult 37 years donor ENCDO147QAL,blood
+1410,T-cell male adult 38 years donor ENCDO323QDI,blood
+1411,T-cell male adult 38 years donor ENCDO923WRX,bodily fluid
+1412,T-cell male adult 39 years,blood
+1413,T-cell male adult 40 years,blood
+1414,T-cell male adult 42 years,blood
+1415,T-cell male adult 47 years,blood
+1416,T-cell male adult 48 years,blood
+1417,T-cell male adult 49 years,blood
+1418,T-cell male adult 55 years,blood
+1419,T-helper 17 cell,blood
+1420,T-helper 17 cell female adult 25 years and male adult 30 years,blood
+1421,T-helper 17 cell male adult 24 years,blood
+1422,T-helper 17 cell male adult 42 years,blood
+1423,T-helper 17 cell treated with phorbol 13-acetate 12-myristate ; ionomycin,bodily fluid
+1424,T-helper 1 cell donor ENCDO174AAA,blood
+1425,T-helper 1 cell donor ENCDO334AAA,blood
+1426,T-helper 1 cell female adult 26 years,blood
+1427,T-helper 1 cell female adult 33 years treated with 50 U/mL Interleukin-2 for 16 hours,blood
+1428,T-helper 1 cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 16 hours,blood
+1429,T-helper 1 cell male adult 24 years,blood
+1430,T-helper 1 cell male adult 30 years,blood
+1431,T-helper 1 cell male adult 33 years,blood
+1432,T-helper 1 cell male adult 38 years treated with 50 U/mL Interleukin-2 for 16 hours,blood
+1433,T-helper 1 cell male adult 42 years,blood
+1434,T-helper 1 cell male adult 42 years treated with anti-CD3 and anti-CD28 coated beads for 16 hours; 50 U/mL Interleukin-2 for 16 hours,blood
+1435,T-helper 1 cell male adult 56 years,blood
+1436,T-helper 22 cell female adult 25 years,blood
+1437,T-helper 2 cell,blood
+1438,T-helper 2 cell female adult 26 years,blood
+1439,T-helper 2 cell male adult 24 years,blood
+1440,T-helper 2 cell male adult 30 years,blood
+1441,T-helper 2 cell male adult 33 years,blood
+1442,T-helper 2 cell male adult 38 years,blood
+1443,T-helper 2 cell male adult 42 years,blood
+1444,T-helper 9 cell female adult 25 years,blood
+1445,T-helper 9 cell female adult 33 years treated with anti-CD3 and anti-CD28 coated beads for 16 hours; 50 U/mL Interleukin-2 for 16 hours,blood
+1446,T47D,epithelium
+1447,T47D treated with 0.02% dimethyl sulfoxide for 1 hour,mammary gland
+1448,T47D treated with 10 nM 17?-estradiol for 30 minutes,epithelium
+1449,T follicular helper cell female adult 25 years,
+1450,temporal lobe tissue female adult 75 years,brain
+1451,temporal lobe tissue male adult 81 years,brain
+1452,testis tissue male adult 37 years,gonad
+1453,testis tissue male adult 54 years,testis
+1454,testis tissue male embryo donor ENCDO482LIM,gonad
+1455,testis tissue male embryo donor ENCDO836UAR,gonad
+1456,thoracic aorta tissue male adult 37 years,blood vessel
+1457,thoracic aorta tissue male adult 54 years,arterial blood vessel
+1458,thymus tissue female embryo,endocrine gland
+1459,thymus tissue female embryo 105 days,endocrine gland
+1460,thymus tissue female embryo 110 days,thymus
+1461,thymus tissue female embryo 113 days,endocrine gland
+1462,thymus tissue female embryo 147 days,endocrine gland
+1463,thymus tissue female embryo 98 days,endocrine gland
+1464,thymus tissue male child 3 years,endocrine gland
+1465,thymus tissue male embryo 104 days,endocrine gland
+1466,thymus tissue male embryo 108 days,endocrine gland
+1467,thymus tissue male embryo 113 days,endocrine gland
+1468,thymus tissue male embryo 127 days,endocrine gland
+1469,thyroid gland tissue female adult 51 years,endocrine gland
+1470,thyroid gland tissue female adult 53 years,thyroid gland
+1471,thyroid gland tissue male adult 37 years,thyroid gland
+1472,thyroid gland tissue male adult 54 years,thyroid gland
+1473,tibial artery tissue female adult 53 years,blood vessel
+1474,tibial artery tissue male adult 37 years,vasculature
+1475,tibial artery tissue male adult 54 years,arterial blood vessel
+1476,tibial nerve tissue female adult 51 years,limb
+1477,tibial nerve tissue female adult 53 years,nerve
+1478,tibial nerve tissue male adult 37 years,nerve
+1479,tibial nerve tissue male adult 54 years,limb
+1480,tongue tissue female embryo 59 days and female embryo 76 days,mouth
+1481,tongue tissue male embryo 72 days,mouth
+1482,transverse colon tissue female adult 51 years,intestine
+1483,transverse colon tissue female adult 53 years,colon
+1484,transverse colon tissue male adult 37 years,intestine
+1485,transverse colon tissue male adult 54 years,colon
+1486,trophoblast cell embryo 17 weeks and embryo 18 weeks,extraembryonic component
+1487,trophoblast cell embryo 21 weeks,extraembryonic component
+1488,trophoblast cell embryo 23 weeks,extraembryonic component
+1489,trophoblast cell embryo 39 weeks and embryo 40 weeks,extraembryonic component
+1490,trophoblast cell originated from H1,extraembryonic component
+1491,trophoblast tissue female embryo 20 weeks,embryo
+1492,trophoblast tissue female embryo 40 weeks,embryo
+1493,UCSF-4,embryo
+1494,umbilical cord tissue embryo 59 days and male embryo 76 days,extraembryonic component
+1495,upper lobe of left lung tissue female adult 51 years,lung
+1496,upper lobe of left lung tissue female adult 53 years,lung
+1497,upper lobe of left lung tissue female adult 61 years,lung
+1498,upper lobe of left lung tissue male adult 37 years,lung
+1499,upper lobe of left lung tissue male adult 54 years,lung
+1500,upper lobe of left lung tissue male adult 60 years,lung
+1501,upper lobe of right lung tissue male adult 60 years,lung
+1502,ureter tissue female adult 47 years,kidney
+1503,urinary bladder tissue male adult 34 years,urinary bladder
+1504,urinary bladder tissue male embryo 76 days,urinary bladder
+1505,urothelium cell line,epithelium
+1506,urothelium cell line treated with UT189 for 1 hour,epithelium
+1507,uterus tissue female adult 51 years,uterus
+1508,uterus tissue female adult 53 years,uterus
+1509,uterus tissue female adult 59 years,uterus
+1510,vagina tissue female adult 51 years,vagina
+1511,vagina tissue female adult 53 years,vagina
+1512,VCaP,epithelium
+1513,WERI-Rb-1,eye
+1514,WI38,lung
+1515,WI38 genetically modified using stable transfection originated from WI38,connective tissue
+1516,WI38 genetically modified using stable transfection originated from WI38 treated with 20 nM afimoxifene for 72 hours,connective tissue
+1517,WI38 genetically modified using stable transfection treated with 20 nM afimoxifene for 72 hours,lung
