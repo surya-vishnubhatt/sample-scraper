@@ -18,3 +18,10 @@ Contains:
   ```bash
   conda env create -f encode_scraper.yml
   conda activate encode_scraper
+### 3. Synonym Scraper
+- **Script**: `synonym_parser_framework.py`
+- **Purpose**: Scrapes and identifies comprehensive synonyms for leukemia cell lines.
+
+### 4. Comprehensive Profile
+- **Notebook**: `scraper.ipynb`
+- **Details**: Provides a complete overview of leukemia cell lines available in **ENCODE**.
