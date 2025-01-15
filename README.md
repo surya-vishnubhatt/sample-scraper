@@ -1,4 +1,4 @@
-# Leukemia Subtype Scraper
+# Leukemia Sample Scraper
 
 A **basic scraper** designed for the isolation of all leukemia subtypes **AML** and **ALL** for downstream analysis. This tool leverages **Cellosaurus** for rapid searching of all potential synonyms and misspellings of common AML/ALL cell lines, enabling the isolation of pertinent samples and cell lines.
 
